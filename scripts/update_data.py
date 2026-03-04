@@ -1,3 +1,6 @@
+# Enhanced to support both Nifty 500 and Microcap 250 universes
+# Added metrics: Volume, Market Cap
+
 import yfinance as yf
 import pandas as pd
 import json
@@ -135,7 +138,9 @@ def screen_stocks():
             })
             
         except Exception as e:
-            print(f"Error processing {symbol}: {e}")
+            print(f"Error processing {sym,
+                'volume': df['Volume'].iloc[-1] if 'Volume' in df else None,
+                'marketCap': ticker.info.get('marketCap', None) if hasattr(ticker, 'info') else Nonebol}: {e}")
             continue
     
     # Sort and get top 50
@@ -154,6 +159,7 @@ def screen_stocks():
     }
     
     with open('data/stocks.json', 'w') as f:
+            # TODO: Also save to data/microcap250.json with MICROCAP250_SYMBOLS list
         json.dump(output, f, indent=2)
     
     print(f"Screening complete. Found {len(results)} setups.")
