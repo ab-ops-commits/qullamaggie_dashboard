@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Qullamaggie Breakout Scanner - Nifty 500</title>
+    <title>Qullamaggie Breakout Scanner</title>
     <style>
         * { margin: 0; padding: 0; box-sizing: border-box; }
         body {
@@ -21,37 +21,192 @@
             border-radius: 15px;
         }
         h1 { font-size: 2.5em; margin-bottom: 10px; }
-        .subtitle { font-size: 1.1em; color: #a0a0b0; }
+        .subtitle { font-size: 1.1em; color: #a0a0b0; margin-bottom: 15px; }
+        .universe-selector {
+            display: flex;
+            justify-content: center;
+            gap: 10px;
+            margin: 20px 0;
+        }
+        .universe-btn {
+            background: rgba(255,255,255,0.1);
+            border: 2px solid rgba(255,255,255,0.2);
+            color: #e0e0e0;
+            padding: 12px 30px;
+            border-radius: 25px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            font-size: 1em;
+            font-weight: 600;
+        }
+        .universe-btn:hover { transform: translateY(-2px); }
+        .universe-btn.active {
+            background: linear-gradient(45deg, #00d4ff, #7b2ff7);
+            border-color: transparent;
+        }
         .stats-bar { display: flex; justify-content: space-around; gap: 15px; margin-bottom: 30px; flex-wrap: wrap; }
         .stat-card { background: rgba(255,255,255,0.05); padding: 20px; border-radius: 12px; flex: 1; min-width: 200px; text-align: center; }
         .stat-value { font-size: 1.8em; font-weight: bold; color: #00d4ff; }
-        .stocks-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(350px, 1fr)); gap: 20px; }
-        .stock-card { background: rgba(255,255,255,0.05); border-radius: 15px; padding: 20px; border: 2px solid rgba(255,255,255,0.1); }
+        .filters { display: flex; gap: 15px; margin-bottom: 25px; flex-wrap: wrap; }
+        .filter-btn {
+            background: rgba(255,255,255,0.1);
+            border: 1px solid rgba(255,255,255,0.2);
+            color: #e0e0e0;
+            padding: 10px 20px;
+            border-radius: 8px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+        }
+        .filter-btn:hover { background: rgba(255,255,255,0.15); }
+        .filter-btn.active { background: linear-gradient(45deg, #00d4ff, #7b2ff7); }
+        .stocks-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(380px, 1fr)); gap: 20px; }
+        .stock-card {
+            background: rgba(255,255,255,0.05);
+            border-radius: 15px;
+            padding: 20px;
+            border: 2px solid rgba(255,255,255,0.1);
+            transition: all 0.3s ease;
+        }
+        .stock-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 30px rgba(0,212,255,0.2);
+            border-color: rgba(0,212,255,0.5);
+        }
+        .stock-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 15px; }
         .stock-symbol { font-size: 1.4em; font-weight: bold; }
-        .grade-a-plus { background: linear-gradient(45deg, #00ff88, #00cc66); color: #000; padding: 6px 14px; border-radius: 20px; }
+        .grade-badge { padding: 6px 14px; border-radius: 20px; font-weight: bold; }
+        .grade-a-plus { background: linear-gradient(45deg, #00ff88, #00cc66); color: #000; }
+        .grade-a { background: #00cc66; color: #000; }
+        .grade-b { background: #4CAF50; color: #fff; }
+        .grade-c { background: #FFA726; color: #000; }
+        .stock-price { font-size: 1.8em; color: #00d4ff; margin-bottom: 5px; font-weight: bold; }
+        .stock-change { font-size: 1.1em; font-weight: bold; }
+        .positive { color: #00ff88; }
+        .negative { color: #ff4444; }
+        .metrics-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; margin-top: 15px; }
+        .metric { background: rgba(0,0,0,0.3); padding: 10px; border-radius: 8px; }
+        .metric-label { font-size: 0.75em; color: #888; text-transform: uppercase; margin-bottom: 4px; }
+        .metric-value { font-size: 1.1em; font-weight: bold; color: #e0e0e0; }
+        .setup-notes {
+            margin-top: 15px;
+            padding: 12px;
+            background: rgba(0,212,255,0.1);
+            border-left: 3px solid #00d4ff;
+            border-radius: 5px;
+            font-size: 0.85em;
+            line-height: 1.5;
+        }
     </style>
 </head>
 <body>
     <div class="header">
         <h1>🚀 Qullamaggie Breakout Scanner</h1>
-        <div class="subtitle">Top 50 Nifty 500 Stocks</div>
+        <div class="subtitle">Top 50 Momentum Setups</div>
+        <div class="universe-selector">
+            <button class="universe-btn active" onclick="switchUniverse('nifty500')">Nifty 500</button>
+            <button class="universe-btn" onclick="switchUniverse('microcap250')">Microcap 250</button>
+        </div>
         <div id="updateTime">Loading...</div>
     </div>
+
     <div class="stats-bar">
         <div class="stat-card"><div>Total Setups</div><div class="stat-value" id="totalSetups">0</div></div>
+        <div class="stat-card"><div>5-Star (A+)</div><div class="stat-value" id="fiveStarCount">0</div></div>
+        <div class="stat-card"><div>Avg ADR</div><div class="stat-value" id="avgADR">0%</div></div>
     </div>
+
+    <div class="filters">
+        <button class="filter-btn active" onclick="filterByGrade('all')">All Setups</button>
+        <button class="filter-btn" onclick="filterByGrade('A+')">A+ Only</button>
+        <button class="filter-btn" onclick="filterByGrade('A')">A Grade</button>
+        <button class="filter-btn" onclick="filterByGrade('high-adr')">High ADR (>6%)</button>
+    </div>
+
     <div class="stocks-grid" id="stocksGrid">Loading...</div>
+
     <script>
+        let allStocks = [];
+        let currentFilter = 'all';
+        let currentUniverse = 'nifty500';
+
         async function loadData() {
-            const response = await fetch('data/stocks.json');
-            const data = await response.json();
-            document.getElementById('updateTime').textContent = data.lastUpdated;
-            document.getElementById('totalSetups').textContent = data.stocks.length;
-            document.getElementById('stocksGrid').innerHTML = data.stocks.map(s => 
-                `<div class="stock-card"><div class="stock-symbol">${s.symbol}</div></div>`
-            ).join('');
+            try {
+                const file = currentUniverse === 'nifty500' ? 'data/nifty500.json' : 'data/microcap250.json';
+                const response = await fetch(file);
+                const data = await response.json();
+                allStocks = data.stocks;
+                document.getElementById('updateTime').textContent = data.lastUpdated;
+                updateStats();
+                renderStocks();
+            } catch (error) {
+                const response = await fetch('data/stocks.json');
+                const data = await response.json();
+                allStocks = data.stocks;
+                document.getElementById('updateTime').textContent = data.lastUpdated;
+                updateStats();
+                renderStocks();
+            }
         }
+
+        function switchUniverse(universe) {
+            currentUniverse = universe;
+            document.querySelectorAll('.universe-btn').forEach(btn => btn.classList.remove('active'));
+            event.target.classList.add('active');
+            loadData();
+        }
+
+        function updateStats() {
+            const fiveStar = allStocks.filter(s => s.grade === 'A+').length;
+            const avgADR = (allStocks.reduce((sum, s) => sum + s.adr, 0) / allStocks.length).toFixed(2);
+            document.getElementById('totalSetups').textContent = allStocks.length;
+            document.getElementById('fiveStarCount').textContent = fiveStar;
+            document.getElementById('avgADR').textContent = avgADR + '%';
+        }
+
+        function renderStocks() {
+            let filtered = allStocks;
+            if (currentFilter === 'A+') filtered = allStocks.filter(s => s.grade === 'A+');
+            else if (currentFilter === 'A') filtered = allStocks.filter(s => s.grade === 'A');
+            else if (currentFilter === 'high-adr') filtered = allStocks.filter(s => s.adr > 6);
+
+            const grid = document.getElementById('stocksGrid');
+            if (filtered.length === 0) {
+                grid.innerHTML = '<div style="text-align:center;padding:60px;color:#888">No stocks match filter.</div>';
+                return;
+            }
+
+            grid.innerHTML = filtered.map(s => `
+                <div class="stock-card">
+                    <div class="stock-header">
+                        <div class="stock-symbol">#${s.rank} ${s.symbol}</div>
+                        <div class="grade-badge grade-${s.grade.toLowerCase().replace('+', '-plus')}">${s.grade}</div>
+                    </div>
+                    <div class="stock-price">₹${s.price.toFixed(2)}</div>
+                    <div class="stock-change ${s.change >= 0 ? 'positive' : 'negative'}">
+                        ${s.change >= 0 ? '+' : ''}${s.change.toFixed(2)}%
+                    </div>
+                    <div class="metrics-grid">
+                        <div class="metric"><div class="metric-label">ADR %</div><div class="metric-value">${s.adr.toFixed(2)}%</div></div>
+                        <div class="metric"><div class="metric-label">Prior Move</div><div class="metric-value">+${s.priorMove.toFixed(0)}%</div></div>
+                        <div class="metric"><div class="metric-label">RS Rating</div><div class="metric-value">${s.rsRating}/100</div></div>
+                        <div class="metric"><div class="metric-label">Consol. Days</div><div class="metric-value">${s.consolidationDays}d</div></div>
+                        <div class="metric"><div class="metric-label">Volume</div><div class="metric-value">${s.volume ? (s.volume/1000000).toFixed(1) + 'M' : 'N/A'}</div></div>
+                        <div class="metric"><div class="metric-label">Mkt Cap</div><div class="metric-value">${s.marketCap ? '₹' + (s.marketCap/1000).toFixed(0) + 'Cr' : 'N/A'}</div></div>
+                    </div>
+                    <div class="setup-notes">${s.setupNotes}</div>
+                </div>
+            `).join('');
+        }
+
+        function filterByGrade(grade) {
+            currentFilter = grade;
+            document.querySelectorAll('.filter-btn').forEach(btn => btn.classList.remove('active'));
+            event.target.classList.add('active');
+            renderStocks();
+        }
+
         loadData();
+        setInterval(loadData, 300000);
     </script>
 </body>
 </html>
