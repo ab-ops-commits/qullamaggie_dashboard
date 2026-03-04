@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Qullamaggie Breakout Scanner - Nifty 500</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #1e1e2e 0%, #2d2d44 100%);
+            color: #e0e0e0;
+            padding: 20px;
+            min-height: 100vh;
+        }
+        .header {
+            text-align: center;
+            margin-bottom: 30px;
+            padding: 20px;
+            background: rgba(255,255,255,0.05);
+            border-radius: 15px;
+        }
+        h1 { font-size: 2.5em; margin-bottom: 10px; }
+        .subtitle { font-size: 1.1em; color: #a0a0b0; }
+        .stats-bar { display: flex; justify-content: space-around; gap: 15px; margin-bottom: 30px; flex-wrap: wrap; }
+        .stat-card { background: rgba(255,255,255,0.05); padding: 20px; border-radius: 12px; flex: 1; min-width: 200px; text-align: center; }
+        .stat-value { font-size: 1.8em; font-weight: bold; color: #00d4ff; }
+        .stocks-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(350px, 1fr)); gap: 20px; }
+        .stock-card { background: rgba(255,255,255,0.05); border-radius: 15px; padding: 20px; border: 2px solid rgba(255,255,255,0.1); }
+        .stock-symbol { font-size: 1.4em; font-weight: bold; }
+        .grade-a-plus { background: linear-gradient(45deg, #00ff88, #00cc66); color: #000; padding: 6px 14px; border-radius: 20px; }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>🚀 Qullamaggie Breakout Scanner</h1>
+        <div class="subtitle">Top 50 Nifty 500 Stocks</div>
+        <div id="updateTime">Loading...</div>
+    </div>
+    <div class="stats-bar">
+        <div class="stat-card"><div>Total Setups</div><div class="stat-value" id="totalSetups">0</div></div>
+    </div>
+    <div class="stocks-grid" id="stocksGrid">Loading...</div>
+    <script>
+        async function loadData() {
+            const response = await fetch('data/stocks.json');
+            const data = await response.json();
+            document.getElementById('updateTime').textContent = data.lastUpdated;
+            document.getElementById('totalSetups').textContent = data.stocks.length;
+            document.getElementById('stocksGrid').innerHTML = data.stocks.map(s => 
+                `<div class="stock-card"><div class="stock-symbol">${s.symbol}</div></div>`
+            ).join('');
+        }
+        loadData();
+    </script>
+</body>
+</html>
