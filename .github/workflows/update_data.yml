@@ -31,6 +31,5 @@ jobs:
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add data/stocks.json
-          git diff --quiet && git diff --staged --quiet || git commit -m "Update stock data - $(date '+%Y-%m-%d %H:%M IST')"
+          git add data/*.json          git diff --quiet && git diff --staged --quiet || git commit -m "Update stock data - $(date '+%Y-%m-%d %H:%M IST')"
           git push
