@@ -2,7 +2,9 @@ name: Update Qullamaggie Dashboard
 
 on:
   schedule:
-    - cron: '30 12 * * *'  # 6:00 PM IST (12:30 PM UTC)
+    - cron: '30 12 * * *'  # 6:00 PM IST (12:30 UTC) - Primary
+    - cron: '0 13 * * *'   # 6:30 PM IST (13:00 UTC) - Backup 1
+    - cron: '30 13 * * *'  # 7:00 PM IST (13:30 UTC) - Backup 2
   workflow_dispatch:  # Manual trigger
 
 jobs:
