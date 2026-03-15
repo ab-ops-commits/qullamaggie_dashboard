@@ -307,10 +307,10 @@ def screen_stocks(symbols_list, index_symbol, output_file):
 
 if __name__ == '__main__':
     # Screen Nifty 500
-    screen_stocks(NIFTY500_SYMBOLS, '^CRSLDX', 'data/nifty500.json')
+    screen_stocks(NIFTY500_SYMBOLS, '^NSEI', 'data/nifty500.json')
     
     # Screen Microcap 250
-    screen_stocks(MICROCAP250_SYMBOLS, '^CRSLDX', 'data/microcap250.json')
+    screen_stocks(MICROCAP250_SYMBOLS, '^NSEI', 'data/microcap250.json')
     
     # Also create stocks.json for backward compatibility
-    screen_stocks(NIFTY500_SYMBOLS, '^CRSLDX', 'data/stocks.json')
+    screen_stocks(NIFTY500_SYMBOLS, '^NSEI', 'data/stocks.json')
