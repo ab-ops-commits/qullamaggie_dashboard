@@ -118,8 +118,8 @@ def calculate_prior_move(df, lookback_months=3):
     lookback_days = lookback_months * 21
     if len(df) < lookback_days:
         return 0
-    start_price = df['Close'].iloc[-lookback_days]
-    current_price = df['Close'].iloc[-1]
+    start_price = float(df['Close'].iloc[-lookback_days])
+    current_price = float(df['Close'].iloc[-1])
     return ((current_price - start_price) / start_price) * 100
 
 def check_consolidation(df, weeks=8):
@@ -188,7 +188,7 @@ def screen_stocks(symbols_list, index_symbol, output_file):
             df = ticker.history(period='6mo')
             if len(df) < 60:
                 continue
-            price = df['Close'].iloc[-1]
+            price = float(df['Close'].iloc[-1])
             if price < 20:
                 continue
             adr = calculate_adr(df)
@@ -199,7 +199,7 @@ def screen_stocks(symbols_list, index_symbol, output_file):
                 continue
             df['SMA10'] = df['Close'].rolling(10).mean()
             df['SMA20'] = df['Close'].rolling(20).mean()
-            price_above_ma = price > df['SMA10'].iloc[-1] and price > df['SMA20'].iloc[-1]
+            price_above_ma = float(price) > float(df['SMA10'].iloc[-1]) and float(price) > float(df['SMA20'].iloc[-1])
             if not price_above_ma:
                 continue
             consol_tight, consol_days = check_consolidation(df, 8)
@@ -207,7 +207,7 @@ def screen_stocks(symbols_list, index_symbol, output_file):
             grade = grade_setup(adr, prior_move, rs_rating, consol_tight, price_above_ma)
             if grade in ['D']:
                 continue
-            change = ((price - df['Close'].iloc[-2]) / df['Close'].iloc[-2]) * 100
+            change = ((price - float(df['Close'].iloc[-2])) / float(df['Close'].iloc[-2])) * 100
             setup_notes = f"{'Tight' if consol_tight else 'Loose'} consolidation. "
             if adr > 6:
                 setup_notes += "High volatility. "
