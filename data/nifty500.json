@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-17 14:05 IST",
+  "lastUpdated": "2026-04-17 15:38 IST",
   "stocks": [
     {
       "symbol": "ATHERENERG",
@@ -180,7 +180,7 @@
       "grade": "B",
       "setupNotes": "Loose consolidation. ",
       "volume": 371302,
-      "marketCap": 308517240832,
+      "marketCap": null,
       "rank": 13
     },
     {
