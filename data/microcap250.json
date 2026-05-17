@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-17 15:40 IST",
+  "lastUpdated": "2026-05-17 17:35 IST",
   "stocks": [
     {
       "symbol": "MTARTECH",
@@ -12,7 +12,7 @@
       "grade": "B",
       "setupNotes": "Loose consolidation. High volatility. ",
       "volume": 1808210,
-      "marketCap": 222514888704,
+      "marketCap": 221607477248,
       "rank": 1
     },
     {
@@ -26,7 +26,7 @@
       "grade": "B",
       "setupNotes": "Loose consolidation. ",
       "volume": 18806298,
-      "marketCap": 103523467264,
+      "marketCap": 103602520064,
       "rank": 2
     },
     {
@@ -40,7 +40,7 @@
       "grade": "B",
       "setupNotes": "Loose consolidation. ",
       "volume": 8793796,
-      "marketCap": 204862357504,
+      "marketCap": 203409424384,
       "rank": 3
     },
     {
@@ -54,7 +54,7 @@
       "grade": "B",
       "setupNotes": "Loose consolidation. ",
       "volume": 2725771,
-      "marketCap": 55282585600,
+      "marketCap": 54822490112,
       "rank": 4
     },
     {
@@ -68,7 +68,7 @@
       "grade": "B",
       "setupNotes": "Loose consolidation. ",
       "volume": 2449910,
-      "marketCap": 93566345216,
+      "marketCap": 93400096768,
       "rank": 5
     },
     {
@@ -82,7 +82,7 @@
       "grade": "B",
       "setupNotes": "Loose consolidation. ",
       "volume": 204773,
-      "marketCap": 100126556160,
+      "marketCap": 100100571136,
       "rank": 6
     },
     {
@@ -96,7 +96,7 @@
       "grade": "B",
       "setupNotes": "Loose consolidation. ",
       "volume": 2195429,
-      "marketCap": 204918030336,
+      "marketCap": 205064486912,
       "rank": 7
     },
     {
@@ -110,7 +110,7 @@
       "grade": "C",
       "setupNotes": "Loose consolidation. ",
       "volume": 543022,
-      "marketCap": 51698561024,
+      "marketCap": 51092942848,
       "rank": 8
     },
     {
@@ -124,7 +124,7 @@
       "grade": "C",
       "setupNotes": "Loose consolidation. ",
       "volume": 71400,
-      "marketCap": 125533913088,
+      "marketCap": 125454925824,
       "rank": 9
     },
     {
@@ -138,7 +138,7 @@
       "grade": "C",
       "setupNotes": "Loose consolidation. ",
       "volume": 363294,
-      "marketCap": 88366800896,
+      "marketCap": 88827633664,
       "rank": 10
     },
     {
@@ -152,7 +152,7 @@
       "grade": "C",
       "setupNotes": "Loose consolidation. ",
       "volume": 245571,
-      "marketCap": 127217483776,
+      "marketCap": 126606278656,
       "rank": 11
     },
     {
@@ -166,7 +166,7 @@
       "grade": "C",
       "setupNotes": "Loose consolidation. ",
       "volume": 2749159,
-      "marketCap": 107621908480,
+      "marketCap": 107377655808,
       "rank": 12
     },
     {
@@ -180,7 +180,7 @@
       "grade": "C",
       "setupNotes": "Loose consolidation. ",
       "volume": 1156593,
-      "marketCap": 74666991616,
+      "marketCap": 74648649728,
       "rank": 13
     },
     {
@@ -194,7 +194,7 @@
       "grade": "C",
       "setupNotes": "Loose consolidation. ",
       "volume": 128810,
-      "marketCap": 106339655680,
+      "marketCap": 105703669760,
       "rank": 14
     },
     {
@@ -208,7 +208,7 @@
       "grade": "C",
       "setupNotes": "Loose consolidation. ",
       "volume": 896654,
-      "marketCap": 118239911936,
+      "marketCap": 118724829184,
       "rank": 15
     },
     {
@@ -222,7 +222,7 @@
       "grade": "C",
       "setupNotes": "Loose consolidation. ",
       "volume": 8094,
-      "marketCap": 138858168320,
+      "marketCap": 138930765824,
       "rank": 16
     }
   ]
