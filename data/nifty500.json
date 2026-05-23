@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-22 18:16 IST",
+  "lastUpdated": "2026-05-23 14:10 IST",
   "stocks": [
     {
       "symbol": "HFCL",
@@ -11,7 +11,7 @@
       "consolidationDays": 40,
       "grade": "B",
       "setupNotes": "Loose consolidation. High volatility. ",
-      "volume": 44825583,
+      "volume": 44851554,
       "marketCap": 226800386048,
       "rank": 1
     },
@@ -25,7 +25,7 @@
       "consolidationDays": 40,
       "grade": "B",
       "setupNotes": "Loose consolidation. ",
-      "volume": 2406832,
+      "volume": 2407371,
       "marketCap": 83060146176,
       "rank": 2
     },
@@ -39,7 +39,7 @@
       "consolidationDays": 40,
       "grade": "B",
       "setupNotes": "Loose consolidation. ",
-      "volume": 3343293,
+      "volume": 3344194,
       "marketCap": 1643234590720,
       "rank": 3
     },
@@ -53,7 +53,7 @@
       "consolidationDays": 40,
       "grade": "B",
       "setupNotes": "Loose consolidation. ",
-      "volume": 13994013,
+      "volume": 13994095,
       "marketCap": 224735854592,
       "rank": 4
     },
@@ -67,7 +67,7 @@
       "consolidationDays": 40,
       "grade": "B",
       "setupNotes": "Loose consolidation. ",
-      "volume": 3144183,
+      "volume": 3145770,
       "marketCap": 477904306176,
       "rank": 5
     },
@@ -95,7 +95,7 @@
       "consolidationDays": 40,
       "grade": "B",
       "setupNotes": "Loose consolidation. ",
-      "volume": 7876527,
+      "volume": 7879542,
       "marketCap": 1422596898816,
       "rank": 7
     },
@@ -109,7 +109,7 @@
       "consolidationDays": 40,
       "grade": "B",
       "setupNotes": "Loose consolidation. ",
-      "volume": 118518,
+      "volume": 118548,
       "marketCap": 1584770449408,
       "rank": 8
     },
@@ -123,7 +123,7 @@
       "consolidationDays": 40,
       "grade": "C",
       "setupNotes": "Loose consolidation. ",
-      "volume": 732496,
+      "volume": 732563,
       "marketCap": 237864370176,
       "rank": 9
     },
@@ -137,7 +137,7 @@
       "consolidationDays": 40,
       "grade": "C",
       "setupNotes": "Loose consolidation. ",
-      "volume": 78122092,
+      "volume": 78171002,
       "marketCap": 151169761280,
       "rank": 10
     },
@@ -151,7 +151,7 @@
       "consolidationDays": 40,
       "grade": "C",
       "setupNotes": "Loose consolidation. ",
-      "volume": 3519463,
+      "volume": 3521385,
       "marketCap": 119661264896,
       "rank": 11
     },
@@ -165,7 +165,7 @@
       "consolidationDays": 40,
       "grade": "C",
       "setupNotes": "Loose consolidation. ",
-      "volume": 5875085,
+      "volume": 5876309,
       "marketCap": 717955989504,
       "rank": 12
     },
@@ -179,7 +179,7 @@
       "consolidationDays": 40,
       "grade": "C",
       "setupNotes": "Loose consolidation. ",
-      "volume": 2212264,
+      "volume": 2212392,
       "marketCap": 186249854976,
       "rank": 13
     },
@@ -193,7 +193,7 @@
       "consolidationDays": 40,
       "grade": "C",
       "setupNotes": "Loose consolidation. ",
-      "volume": 120593,
+      "volume": 120612,
       "marketCap": 162184527872,
       "rank": 14
     },
@@ -207,7 +207,7 @@
       "consolidationDays": 40,
       "grade": "C",
       "setupNotes": "Loose consolidation. ",
-      "volume": 864250,
+      "volume": 864270,
       "marketCap": 384541491200,
       "rank": 15
     },
@@ -221,7 +221,7 @@
       "consolidationDays": 40,
       "grade": "C",
       "setupNotes": "Loose consolidation. ",
-      "volume": 67891,
+      "volume": 67964,
       "marketCap": 513431404544,
       "rank": 16
     },
@@ -235,7 +235,7 @@
       "consolidationDays": 40,
       "grade": "C",
       "setupNotes": "Loose consolidation. ",
-      "volume": 26018169,
+      "volume": 26032718,
       "marketCap": 831102976000,
       "rank": 17
     },
@@ -249,7 +249,7 @@
       "consolidationDays": 40,
       "grade": "C",
       "setupNotes": "Loose consolidation. ",
-      "volume": 224251,
+      "volume": 224252,
       "marketCap": 582874103808,
       "rank": 18
     },
@@ -263,7 +263,7 @@
       "consolidationDays": 40,
       "grade": "C",
       "setupNotes": "Loose consolidation. ",
-      "volume": 10306359,
+      "volume": 10307977,
       "marketCap": 309486780416,
       "rank": 19
     },
@@ -277,7 +277,7 @@
       "consolidationDays": 40,
       "grade": "C",
       "setupNotes": "Loose consolidation. ",
-      "volume": 680362,
+      "volume": 680384,
       "marketCap": 1023767019520,
       "rank": 20
     },
@@ -291,7 +291,7 @@
       "consolidationDays": 40,
       "grade": "C",
       "setupNotes": "Loose consolidation. ",
-      "volume": 1094683,
+      "volume": 1094843,
       "marketCap": 3725266780160,
       "rank": 21
     },
@@ -305,7 +305,7 @@
       "consolidationDays": 40,
       "grade": "C",
       "setupNotes": "Loose consolidation. ",
-      "volume": 667458,
+      "volume": 667510,
       "marketCap": 186330906624,
       "rank": 22
     },
@@ -319,7 +319,7 @@
       "consolidationDays": 40,
       "grade": "C",
       "setupNotes": "Loose consolidation. ",
-      "volume": 68972715,
+      "volume": 68973967,
       "marketCap": 125099565056,
       "rank": 23
     }
