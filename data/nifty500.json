@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-27 16:24 IST",
+  "lastUpdated": "2026-05-27 17:41 IST",
   "stocks": [
     {
       "symbol": "HFCL",
@@ -124,7 +124,7 @@
       "grade": "B",
       "setupNotes": "Loose consolidation. ",
       "volume": 1970656,
-      "marketCap": null,
+      "marketCap": 180047839232,
       "rank": 9
     },
     {

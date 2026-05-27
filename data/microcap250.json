@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-27 16:25 IST",
+  "lastUpdated": "2026-05-27 17:42 IST",
   "stocks": [
     {
       "symbol": "SPARC",
@@ -222,7 +222,7 @@
       "grade": "B",
       "setupNotes": "Loose consolidation. ",
       "volume": 3263049,
-      "marketCap": 48830365696,
+      "marketCap": null,
       "rank": 16
     },
     {
