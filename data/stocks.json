@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-29 16:28 IST",
+  "lastUpdated": "2026-05-29 17:51 IST",
   "stocks": [
     {
       "symbol": "TEJASNET",
@@ -26,7 +26,7 @@
       "grade": "B",
       "setupNotes": "Loose consolidation. High volatility. ",
       "volume": 111038933,
-      "marketCap": 275355664384,
+      "marketCap": null,
       "rank": 2
     },
     {
