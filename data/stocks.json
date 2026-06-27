@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-26 18:13 IST",
+  "lastUpdated": "2026-06-27 14:16 IST",
   "stocks": [
     {
       "symbol": "NETWEB",
@@ -12,7 +12,7 @@
       "grade": "A",
       "setupNotes": "Loose consolidation. Strong RS.",
       "volume": 1196755,
-      "marketCap": 281970278400,
+      "marketCap": null,
       "rank": 1
     },
     {
@@ -26,7 +26,7 @@
       "grade": "A",
       "setupNotes": "Loose consolidation. Strong RS.",
       "volume": 3909807,
-      "marketCap": 110045478912,
+      "marketCap": null,
       "rank": 2
     },
     {
@@ -54,7 +54,7 @@
       "grade": "A",
       "setupNotes": "Loose consolidation. Strong RS.",
       "volume": 1182568,
-      "marketCap": 410958594048,
+      "marketCap": null,
       "rank": 4
     },
     {
@@ -82,7 +82,7 @@
       "grade": "A",
       "setupNotes": "Loose consolidation. Strong RS.",
       "volume": 4204537,
-      "marketCap": 303528640512,
+      "marketCap": null,
       "rank": 6
     },
     {
@@ -124,7 +124,7 @@
       "grade": "A",
       "setupNotes": "Loose consolidation. Strong RS.",
       "volume": 1194137,
-      "marketCap": 359815348224,
+      "marketCap": null,
       "rank": 9
     },
     {
@@ -138,7 +138,7 @@
       "grade": "A",
       "setupNotes": "Loose consolidation. Strong RS.",
       "volume": 889667,
-      "marketCap": 123695669248,
+      "marketCap": null,
       "rank": 10
     },
     {
@@ -152,7 +152,7 @@
       "grade": "A",
       "setupNotes": "Loose consolidation. Strong RS.",
       "volume": 549659,
-      "marketCap": 140865617920,
+      "marketCap": null,
       "rank": 11
     },
     {
@@ -180,7 +180,7 @@
       "grade": "A",
       "setupNotes": "Loose consolidation. Strong RS.",
       "volume": 4585234,
-      "marketCap": 222813536256,
+      "marketCap": null,
       "rank": 13
     },
     {
@@ -194,7 +194,7 @@
       "grade": "A",
       "setupNotes": "Loose consolidation. Strong RS.",
       "volume": 83283,
-      "marketCap": 155691040768,
+      "marketCap": null,
       "rank": 14
     },
     {
@@ -208,7 +208,7 @@
       "grade": "A",
       "setupNotes": "Loose consolidation. Strong RS.",
       "volume": 2090576,
-      "marketCap": 165781487616,
+      "marketCap": null,
       "rank": 15
     },
     {
@@ -222,7 +222,7 @@
       "grade": "A",
       "setupNotes": "Loose consolidation. Strong RS.",
       "volume": 953580,
-      "marketCap": 281621397504,
+      "marketCap": null,
       "rank": 16
     },
     {
@@ -236,7 +236,7 @@
       "grade": "A",
       "setupNotes": "Loose consolidation. Strong RS.",
       "volume": 871473,
-      "marketCap": 92188540928,
+      "marketCap": null,
       "rank": 17
     },
     {
@@ -278,7 +278,7 @@
       "grade": "A",
       "setupNotes": "Loose consolidation. Strong RS.",
       "volume": 3269803,
-      "marketCap": 276609466368,
+      "marketCap": null,
       "rank": 20
     },
     {
@@ -306,7 +306,7 @@
       "grade": "A",
       "setupNotes": "Loose consolidation. Strong RS.",
       "volume": 1072182,
-      "marketCap": 953875234816,
+      "marketCap": null,
       "rank": 22
     },
     {
@@ -348,7 +348,7 @@
       "grade": "A",
       "setupNotes": "Loose consolidation. Strong RS.",
       "volume": 1855103,
-      "marketCap": 384744030208,
+      "marketCap": null,
       "rank": 25
     },
     {
@@ -362,7 +362,7 @@
       "grade": "A",
       "setupNotes": "Tight consolidation. Strong RS.",
       "volume": 107696,
-      "marketCap": 394901880832,
+      "marketCap": null,
       "rank": 26
     },
     {
@@ -404,7 +404,7 @@
       "grade": "B",
       "setupNotes": "Loose consolidation. Strong RS.",
       "volume": 122348,
-      "marketCap": 167441170432,
+      "marketCap": null,
       "rank": 29
     },
     {
@@ -418,7 +418,7 @@
       "grade": "B",
       "setupNotes": "Loose consolidation. Strong RS.",
       "volume": 464660,
-      "marketCap": 568465883136,
+      "marketCap": null,
       "rank": 30
     },
     {
@@ -460,7 +460,7 @@
       "grade": "B",
       "setupNotes": "Loose consolidation. Strong RS.",
       "volume": 198719,
-      "marketCap": 112985554944,
+      "marketCap": null,
       "rank": 33
     },
     {
@@ -474,7 +474,7 @@
       "grade": "B",
       "setupNotes": "Loose consolidation. Strong RS.",
       "volume": 252190,
-      "marketCap": 545782824960,
+      "marketCap": null,
       "rank": 34
     },
     {
@@ -530,7 +530,7 @@
       "grade": "B",
       "setupNotes": "Loose consolidation. Strong RS.",
       "volume": 214616,
-      "marketCap": 235819810816,
+      "marketCap": null,
       "rank": 38
     },
     {
@@ -572,7 +572,7 @@
       "grade": "B",
       "setupNotes": "Loose consolidation. Strong RS.",
       "volume": 2493500,
-      "marketCap": 157230727168,
+      "marketCap": null,
       "rank": 41
     },
     {
@@ -600,7 +600,7 @@
       "grade": "B",
       "setupNotes": "Loose consolidation. Strong RS.",
       "volume": 735188,
-      "marketCap": 671077695488,
+      "marketCap": null,
       "rank": 43
     },
     {
@@ -628,7 +628,7 @@
       "grade": "B",
       "setupNotes": "Loose consolidation. Strong RS.",
       "volume": 4936333,
-      "marketCap": 948869529600,
+      "marketCap": null,
       "rank": 45
     },
     {
@@ -684,7 +684,7 @@
       "grade": "B",
       "setupNotes": "Loose consolidation. Strong RS.",
       "volume": 503706,
-      "marketCap": 321250721792,
+      "marketCap": null,
       "rank": 49
     },
     {
