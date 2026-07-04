@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-04 14:13 IST",
+  "lastUpdated": "2026-07-04 15:42 IST",
   "stocks": [
     {
       "symbol": "PARAS",
@@ -30,20 +30,6 @@
       "rank": 2
     },
     {
-      "symbol": "UNIMECH",
-      "price": 1155.4,
-      "change": -1.63,
-      "adr": 5.8,
-      "priorMove": 58.0,
-      "rsRating": 100,
-      "consolidationDays": 40,
-      "grade": "A",
-      "setupNotes": "Loose consolidation. Strong RS.",
-      "volume": 77876,
-      "marketCap": 58760044544,
-      "rank": 3
-    },
-    {
       "symbol": "THANGAMAYL",
       "price": 6159.5,
       "change": -2.47,
@@ -55,7 +41,7 @@
       "setupNotes": "Loose consolidation. Strong RS.",
       "volume": 272660,
       "marketCap": 191449694208,
-      "rank": 4
+      "rank": 3
     },
     {
       "symbol": "CARTRADE",
@@ -69,7 +55,7 @@
       "setupNotes": "Loose consolidation. Strong RS.",
       "volume": 382280,
       "marketCap": 129642995712,
-      "rank": 5
+      "rank": 4
     },
     {
       "symbol": "ICIL",
@@ -83,6 +69,20 @@
       "setupNotes": "Loose consolidation. Strong RS.",
       "volume": 1289118,
       "marketCap": 84470177792,
+      "rank": 5
+    },
+    {
+      "symbol": "UNIMECH",
+      "price": 1155.4,
+      "change": -1.63,
+      "adr": 5.41,
+      "priorMove": 57.0,
+      "rsRating": 100,
+      "consolidationDays": 40,
+      "grade": "A",
+      "setupNotes": "Loose consolidation. Strong RS.",
+      "volume": 77876,
+      "marketCap": 58760044544,
       "rank": 6
     },
     {
@@ -184,20 +184,6 @@
       "rank": 13
     },
     {
-      "symbol": "IXIGO",
-      "price": 222.23,
-      "change": 2.38,
-      "adr": 4.54,
-      "priorMove": 36.0,
-      "rsRating": 100,
-      "consolidationDays": 40,
-      "grade": "A",
-      "setupNotes": "Loose consolidation. Strong RS.",
-      "volume": 1123651,
-      "marketCap": 97485438976,
-      "rank": 14
-    },
-    {
       "symbol": "EMIL",
       "price": 140.68,
       "change": 2.76,
@@ -209,7 +195,7 @@
       "setupNotes": "Loose consolidation. Strong RS.",
       "volume": 4692023,
       "marketCap": 54126452736,
-      "rank": 15
+      "rank": 14
     },
     {
       "symbol": "GREAVESCOT",
@@ -223,7 +209,7 @@
       "setupNotes": "Loose consolidation. Strong RS.",
       "volume": 3039991,
       "marketCap": 52779810816,
-      "rank": 16
+      "rank": 15
     },
     {
       "symbol": "LLOYDSENT",
@@ -237,7 +223,7 @@
       "setupNotes": "Loose consolidation. Strong RS.",
       "volume": 3149148,
       "marketCap": 115025682432,
-      "rank": 17
+      "rank": 16
     },
     {
       "symbol": "EIEL",
@@ -251,6 +237,20 @@
       "setupNotes": "Loose consolidation. Strong RS.",
       "volume": 14473171,
       "marketCap": 41330294784,
+      "rank": 17
+    },
+    {
+      "symbol": "IXIGO",
+      "price": 222.23,
+      "change": 2.38,
+      "adr": 4.39,
+      "priorMove": 30.0,
+      "rsRating": 100,
+      "consolidationDays": 40,
+      "grade": "A",
+      "setupNotes": "Loose consolidation. Strong RS.",
+      "volume": 1123651,
+      "marketCap": 97485438976,
       "rank": 18
     },
     {
@@ -464,20 +464,6 @@
       "rank": 33
     },
     {
-      "symbol": "GRWRHITECH",
-      "price": 6875.0,
-      "change": -0.86,
-      "adr": 4.01,
-      "priorMove": 86.0,
-      "rsRating": 100,
-      "consolidationDays": 40,
-      "grade": "A",
-      "setupNotes": "Loose consolidation. Strong RS.",
-      "volume": 63461,
-      "marketCap": 159722700800,
-      "rank": 34
-    },
-    {
       "symbol": "ARVIND",
       "price": 569.05,
       "change": 0.18,
@@ -489,7 +475,7 @@
       "setupNotes": "Loose consolidation. Strong RS.",
       "volume": 587692,
       "marketCap": 149156331520,
-      "rank": 35
+      "rank": 34
     },
     {
       "symbol": "RATEGAIN",
@@ -503,7 +489,7 @@
       "setupNotes": "Loose consolidation. Strong RS.",
       "volume": 582494,
       "marketCap": 111380725760,
-      "rank": 36
+      "rank": 35
     },
     {
       "symbol": "REFEX",
@@ -517,7 +503,7 @@
       "setupNotes": "Loose consolidation. Strong RS.",
       "volume": 596166,
       "marketCap": 49179451392,
-      "rank": 37
+      "rank": 36
     },
     {
       "symbol": "VIYASH",
@@ -531,7 +517,7 @@
       "setupNotes": "Loose consolidation. Strong RS.",
       "volume": 1556970,
       "marketCap": 128385654784,
-      "rank": 38
+      "rank": 37
     },
     {
       "symbol": "SUNFLAG",
@@ -545,6 +531,20 @@
       "setupNotes": "Loose consolidation. Strong RS.",
       "volume": 154901,
       "marketCap": 63680544768,
+      "rank": 38
+    },
+    {
+      "symbol": "GRWRHITECH",
+      "price": 6875.0,
+      "change": -0.86,
+      "adr": 3.84,
+      "priorMove": 85.0,
+      "rsRating": 100,
+      "consolidationDays": 40,
+      "grade": "A",
+      "setupNotes": "Loose consolidation. Strong RS.",
+      "volume": 63461,
+      "marketCap": 159722700800,
       "rank": 39
     },
     {

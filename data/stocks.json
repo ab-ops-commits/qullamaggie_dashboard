@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-04 14:14 IST",
+  "lastUpdated": "2026-07-04 15:43 IST",
   "stocks": [
     {
       "symbol": "AEGISLOG",
@@ -450,20 +450,6 @@
       "rank": 32
     },
     {
-      "symbol": "AKUMS",
-      "price": 626.8,
-      "change": -1.21,
-      "adr": 3.52,
-      "priorMove": 26.0,
-      "rsRating": 100,
-      "consolidationDays": 40,
-      "grade": "B",
-      "setupNotes": "Loose consolidation. Strong RS.",
-      "volume": 123722,
-      "marketCap": 95964372992,
-      "rank": 33
-    },
-    {
       "symbol": "GLAND",
       "price": 2462.3,
       "change": 0.66,
@@ -475,7 +461,7 @@
       "setupNotes": "Loose consolidation. Strong RS.",
       "volume": 525087,
       "marketCap": 406180233216,
-      "rank": 34
+      "rank": 33
     },
     {
       "symbol": "IIFL",
@@ -489,7 +475,7 @@
       "setupNotes": "Loose consolidation. Strong RS.",
       "volume": 1297722,
       "marketCap": 220959195136,
-      "rank": 35
+      "rank": 34
     },
     {
       "symbol": "AAVAS",
@@ -503,6 +489,20 @@
       "setupNotes": "Loose consolidation. Strong RS.",
       "volume": 55158,
       "marketCap": 119415332864,
+      "rank": 35
+    },
+    {
+      "symbol": "AKUMS",
+      "price": 626.8,
+      "change": -1.21,
+      "adr": 3.37,
+      "priorMove": 28.0,
+      "rsRating": 100,
+      "consolidationDays": 40,
+      "grade": "B",
+      "setupNotes": "Loose consolidation. Strong RS.",
+      "volume": 123722,
+      "marketCap": 95964372992,
       "rank": 36
     },
     {
