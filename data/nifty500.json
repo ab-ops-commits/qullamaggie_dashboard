@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-20 16:08 IST",
+  "lastUpdated": "2026-07-20 18:31 IST",
   "stocks": [
     {
       "symbol": "AEGISLOG",
@@ -16,20 +16,6 @@
       "rank": 1
     },
     {
-      "symbol": "KALYANKJIL",
-      "price": 570.0,
-      "change": -0.77,
-      "adr": 5.03,
-      "priorMove": 38.0,
-      "rsRating": 0,
-      "consolidationDays": 40,
-      "grade": "B",
-      "setupNotes": "Loose consolidation. ",
-      "volume": 22888423,
-      "marketCap": 588661915648,
-      "rank": 2
-    },
-    {
       "symbol": "ATHERENERG",
       "price": 1296.7,
       "change": 1.13,
@@ -41,21 +27,7 @@
       "setupNotes": "Loose consolidation. ",
       "volume": 5274687,
       "marketCap": 497038065664,
-      "rank": 3
-    },
-    {
-      "symbol": "METROPOLIS",
-      "price": 573.75,
-      "change": 5.22,
-      "adr": 3.57,
-      "priorMove": 22.0,
-      "rsRating": 0,
-      "consolidationDays": 40,
-      "grade": "B",
-      "setupNotes": "Tight consolidation. ",
-      "volume": 366490,
-      "marketCap": 118977888256,
-      "rank": 4
+      "rank": 2
     },
     {
       "symbol": "CAPLIPOINT",
@@ -69,7 +41,7 @@
       "setupNotes": "Loose consolidation. ",
       "volume": 68207,
       "marketCap": 201370173440,
-      "rank": 5
+      "rank": 3
     },
     {
       "symbol": "BANDHANBNK",
@@ -83,35 +55,7 @@
       "setupNotes": "Tight consolidation. ",
       "volume": 7758673,
       "marketCap": 340485210112,
-      "rank": 6
-    },
-    {
-      "symbol": "SOLARINDS",
-      "price": 19028.0,
-      "change": 3.04,
-      "adr": 3.17,
-      "priorMove": 21.0,
-      "rsRating": 0,
-      "consolidationDays": 40,
-      "grade": "B",
-      "setupNotes": "Tight consolidation. ",
-      "volume": 239238,
-      "marketCap": 1721844760576,
-      "rank": 7
-    },
-    {
-      "symbol": "ECLERX",
-      "price": 1877.5,
-      "change": -5.17,
-      "adr": 5.06,
-      "priorMove": 26.0,
-      "rsRating": 0,
-      "consolidationDays": 40,
-      "grade": "C",
-      "setupNotes": "Loose consolidation. ",
-      "volume": 1618342,
-      "marketCap": 172777455616,
-      "rank": 8
+      "rank": 4
     },
     {
       "symbol": "INOXINDIA",
@@ -125,7 +69,7 @@
       "setupNotes": "Loose consolidation. ",
       "volume": 465953,
       "marketCap": 181835612160,
-      "rank": 9
+      "rank": 5
     },
     {
       "symbol": "COHANCE",
@@ -139,21 +83,7 @@
       "setupNotes": "Loose consolidation. ",
       "volume": 750433,
       "marketCap": 172587696128,
-      "rank": 10
-    },
-    {
-      "symbol": "SUMICHEM",
-      "price": 540.65,
-      "change": 0.39,
-      "adr": 4.13,
-      "priorMove": 21.0,
-      "rsRating": 0,
-      "consolidationDays": 40,
-      "grade": "C",
-      "setupNotes": "Loose consolidation. ",
-      "volume": 351362,
-      "marketCap": 269863157760,
-      "rank": 11
+      "rank": 6
     },
     {
       "symbol": "HEXT",
@@ -167,21 +97,7 @@
       "setupNotes": "Loose consolidation. ",
       "volume": 252131,
       "marketCap": 338644893696,
-      "rank": 12
-    },
-    {
-      "symbol": "SAREGAMA",
-      "price": 514.15,
-      "change": 3.9,
-      "adr": 3.92,
-      "priorMove": 48.0,
-      "rsRating": 0,
-      "consolidationDays": 40,
-      "grade": "C",
-      "setupNotes": "Loose consolidation. ",
-      "volume": 2402536,
-      "marketCap": 98695979008,
-      "rank": 13
+      "rank": 7
     },
     {
       "symbol": "HSCL",
@@ -195,49 +111,7 @@
       "setupNotes": "Loose consolidation. ",
       "volume": 18130563,
       "marketCap": 388461232128,
-      "rank": 14
-    },
-    {
-      "symbol": "LODHA",
-      "price": 1188.4,
-      "change": -0.03,
-      "adr": 3.85,
-      "priorMove": 39.0,
-      "rsRating": 0,
-      "consolidationDays": 40,
-      "grade": "C",
-      "setupNotes": "Loose consolidation. ",
-      "volume": 899790,
-      "marketCap": 1187110715392,
-      "rank": 15
-    },
-    {
-      "symbol": "WELCORP",
-      "price": 1615.8,
-      "change": 2.17,
-      "adr": 3.71,
-      "priorMove": 35.0,
-      "rsRating": 0,
-      "consolidationDays": 40,
-      "grade": "C",
-      "setupNotes": "Loose consolidation. ",
-      "volume": 946303,
-      "marketCap": 426092822528,
-      "rank": 16
-    },
-    {
-      "symbol": "TATATECH",
-      "price": 748.7,
-      "change": -1.23,
-      "adr": 3.69,
-      "priorMove": 35.0,
-      "rsRating": 0,
-      "consolidationDays": 40,
-      "grade": "C",
-      "setupNotes": "Loose consolidation. ",
-      "volume": 1510515,
-      "marketCap": 304011018240,
-      "rank": 17
+      "rank": 8
     },
     {
       "symbol": "GODREJIND",
@@ -251,7 +125,7 @@
       "setupNotes": "Loose consolidation. ",
       "volume": 232904,
       "marketCap": 459734319104,
-      "rank": 18
+      "rank": 9
     },
     {
       "symbol": "BHEL",
@@ -265,7 +139,7 @@
       "setupNotes": "Loose consolidation. ",
       "volume": 12033805,
       "marketCap": 1453761495040,
-      "rank": 19
+      "rank": 10
     },
     {
       "symbol": "IIFL",
@@ -279,7 +153,7 @@
       "setupNotes": "Loose consolidation. ",
       "volume": 1501297,
       "marketCap": 237183991808,
-      "rank": 20
+      "rank": 11
     },
     {
       "symbol": "AKUMS",
@@ -293,7 +167,7 @@
       "setupNotes": "Loose consolidation. ",
       "volume": 187177,
       "marketCap": 103581196288,
-      "rank": 21
+      "rank": 12
     },
     {
       "symbol": "JSWINFRA",
@@ -307,21 +181,7 @@
       "setupNotes": "Loose consolidation. ",
       "volume": 3994898,
       "marketCap": 806718144512,
-      "rank": 22
-    },
-    {
-      "symbol": "WOCKPHARMA",
-      "price": 1923.4,
-      "change": 1.19,
-      "adr": 3.34,
-      "priorMove": 33.0,
-      "rsRating": 0,
-      "consolidationDays": 40,
-      "grade": "C",
-      "setupNotes": "Loose consolidation. ",
-      "volume": 959003,
-      "marketCap": 312537448448,
-      "rank": 23
+      "rank": 13
     },
     {
       "symbol": "ADANIENSOL",
@@ -335,7 +195,7 @@
       "setupNotes": "Loose consolidation. ",
       "volume": 1234652,
       "marketCap": 2077618470912,
-      "rank": 24
+      "rank": 14
     },
     {
       "symbol": "AJANTPHARM",
@@ -349,7 +209,7 @@
       "setupNotes": "Loose consolidation. ",
       "volume": 54966,
       "marketCap": 433401692160,
-      "rank": 25
+      "rank": 15
     },
     {
       "symbol": "DEEPAKFERT",
@@ -363,7 +223,7 @@
       "setupNotes": "Loose consolidation. ",
       "volume": 146813,
       "marketCap": 202828988416,
-      "rank": 26
+      "rank": 16
     },
     {
       "symbol": "IPCALAB",
@@ -377,21 +237,7 @@
       "setupNotes": "Loose consolidation. ",
       "volume": 301622,
       "marketCap": 466460573696,
-      "rank": 27
-    },
-    {
-      "symbol": "OFSS",
-      "price": 11620.0,
-      "change": -1.28,
-      "adr": 3.18,
-      "priorMove": 36.0,
-      "rsRating": 0,
-      "consolidationDays": 40,
-      "grade": "C",
-      "setupNotes": "Loose consolidation. ",
-      "volume": 395404,
-      "marketCap": 1011778191360,
-      "rank": 28
+      "rank": 17
     },
     {
       "symbol": "CONCORDBIO",
@@ -405,7 +251,7 @@
       "setupNotes": "Loose consolidation. ",
       "volume": 75338,
       "marketCap": 139662639104,
-      "rank": 29
+      "rank": 18
     },
     {
       "symbol": "DIXON",
@@ -419,7 +265,7 @@
       "setupNotes": "Loose consolidation. ",
       "volume": 407349,
       "marketCap": 887038803968,
-      "rank": 30
+      "rank": 19
     },
     {
       "symbol": "IKS",
@@ -433,7 +279,7 @@
       "setupNotes": "Loose consolidation. ",
       "volume": 161857,
       "marketCap": 319040847872,
-      "rank": 31
+      "rank": 20
     }
   ]
 }
