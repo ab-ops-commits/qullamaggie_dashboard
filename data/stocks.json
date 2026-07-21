@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-21 14:41 IST",
+  "lastUpdated": "2026-07-21 16:08 IST",
   "stocks": [
     {
       "symbol": "AEGISLOG",
@@ -68,7 +68,7 @@
       "grade": "B",
       "setupNotes": "Loose consolidation. ",
       "volume": 534915,
-      "marketCap": null,
+      "marketCap": 190040621056,
       "rank": 5
     },
     {
@@ -348,7 +348,7 @@
       "grade": "C",
       "setupNotes": "Loose consolidation. ",
       "volume": 3672770,
-      "marketCap": null,
+      "marketCap": 219111063552,
       "rank": 25
     },
     {
@@ -516,7 +516,7 @@
       "grade": "C",
       "setupNotes": "Loose consolidation. ",
       "volume": 69802,
-      "marketCap": null,
+      "marketCap": 139055857664,
       "rank": 37
     },
     {

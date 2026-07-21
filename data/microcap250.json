@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-21 14:39 IST",
+  "lastUpdated": "2026-07-21 16:06 IST",
   "stocks": [
     {
       "symbol": "RELAXO",
@@ -124,7 +124,7 @@
       "grade": "B",
       "setupNotes": "Loose consolidation. ",
       "volume": 81260,
-      "marketCap": null,
+      "marketCap": 59015725056,
       "rank": 9
     },
     {
@@ -152,7 +152,7 @@
       "grade": "B",
       "setupNotes": "Loose consolidation. ",
       "volume": 95441,
-      "marketCap": null,
+      "marketCap": 116452892672,
       "rank": 11
     },
     {
@@ -194,7 +194,7 @@
       "grade": "B",
       "setupNotes": "Loose consolidation. ",
       "volume": 2658838,
-      "marketCap": null,
+      "marketCap": 263806877696,
       "rank": 14
     },
     {
