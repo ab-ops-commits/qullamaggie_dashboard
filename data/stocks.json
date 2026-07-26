@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-26 15:39 IST",
+  "lastUpdated": "2026-07-26 17:34 IST",
   "stocks": [
     {
       "symbol": "AEGISLOG",
@@ -12,7 +12,7 @@
       "grade": "B",
       "setupNotes": "Loose consolidation. High volatility. ",
       "volume": 1168708,
-      "marketCap": 473709576192,
+      "marketCap": 473147998208,
       "rank": 1
     },
     {
@@ -26,7 +26,7 @@
       "grade": "B",
       "setupNotes": "Loose consolidation. High volatility. ",
       "volume": 1300277,
-      "marketCap": 324242669568,
+      "marketCap": 324630446080,
       "rank": 2
     },
     {
@@ -40,7 +40,7 @@
       "grade": "B",
       "setupNotes": "Loose consolidation. ",
       "volume": 205758,
-      "marketCap": 171305041920,
+      "marketCap": 171627134976,
       "rank": 3
     },
     {
@@ -54,7 +54,7 @@
       "grade": "B",
       "setupNotes": "Loose consolidation. ",
       "volume": 11499577,
-      "marketCap": 592328130560,
+      "marketCap": 591192129536,
       "rank": 4
     },
     {
@@ -68,7 +68,7 @@
       "grade": "B",
       "setupNotes": "Loose consolidation. ",
       "volume": 162161,
-      "marketCap": 181890056192,
+      "marketCap": 182425567232,
       "rank": 5
     },
     {
@@ -82,7 +82,7 @@
       "grade": "B",
       "setupNotes": "Loose consolidation. ",
       "volume": 943722,
-      "marketCap": 282039910400,
+      "marketCap": 283442380800,
       "rank": 6
     },
     {
@@ -96,7 +96,7 @@
       "grade": "B",
       "setupNotes": "Loose consolidation. ",
       "volume": 4447225,
-      "marketCap": 398375813120,
+      "marketCap": 397543309312,
       "rank": 7
     },
     {
@@ -110,7 +110,7 @@
       "grade": "B",
       "setupNotes": "Loose consolidation. ",
       "volume": 417896,
-      "marketCap": 95307882496,
+      "marketCap": 95403868160,
       "rank": 8
     },
     {
@@ -124,7 +124,7 @@
       "grade": "C",
       "setupNotes": "Loose consolidation. ",
       "volume": 495896,
-      "marketCap": 127165448192,
+      "marketCap": 127433310208,
       "rank": 9
     },
     {
@@ -138,7 +138,7 @@
       "grade": "C",
       "setupNotes": "Loose consolidation. ",
       "volume": 8874814,
-      "marketCap": 1453064978432,
+      "marketCap": 1452020465664,
       "rank": 10
     },
     {
@@ -152,7 +152,7 @@
       "grade": "C",
       "setupNotes": "Loose consolidation. ",
       "volume": 3576148,
-      "marketCap": 361425305600,
+      "marketCap": 357774721024,
       "rank": 11
     },
     {
@@ -166,7 +166,7 @@
       "grade": "C",
       "setupNotes": "Loose consolidation. ",
       "volume": 146336,
-      "marketCap": 105227042816,
+      "marketCap": 105028018176,
       "rank": 12
     },
     {
@@ -180,7 +180,7 @@
       "grade": "C",
       "setupNotes": "Loose consolidation. ",
       "volume": 2585952,
-      "marketCap": 2044823339008,
+      "marketCap": 2044583084032,
       "rank": 13
     },
     {
@@ -194,7 +194,7 @@
       "grade": "C",
       "setupNotes": "Loose consolidation. ",
       "volume": 1445810,
-      "marketCap": 293747294208,
+      "marketCap": 296385544192,
       "rank": 14
     },
     {
@@ -208,7 +208,7 @@
       "grade": "C",
       "setupNotes": "Loose consolidation. ",
       "volume": 97679,
-      "marketCap": 502420963328,
+      "marketCap": 505320996864,
       "rank": 15
     },
     {
@@ -222,7 +222,7 @@
       "grade": "C",
       "setupNotes": "Loose consolidation. ",
       "volume": 8733705,
-      "marketCap": 447065423872,
+      "marketCap": 447407915008,
       "rank": 16
     }
   ]
