@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-01 15:37 IST",
+  "lastUpdated": "2026-08-01 17:34 IST",
   "stocks": [
     {
       "symbol": "JINDWORLD",
@@ -58,34 +58,6 @@
       "rank": 4
     },
     {
-      "symbol": "AVALON",
-      "price": 1807.9,
-      "change": 2.75,
-      "adr": 5.11,
-      "priorMove": 57.0,
-      "rsRating": 100,
-      "consolidationDays": 40,
-      "grade": "A",
-      "setupNotes": "Loose consolidation. Strong RS.",
-      "volume": 731668,
-      "marketCap": 120788975616,
-      "rank": 5
-    },
-    {
-      "symbol": "GABRIEL",
-      "price": 1441.8,
-      "change": 3.58,
-      "adr": 4.71,
-      "priorMove": 33.0,
-      "rsRating": 100,
-      "consolidationDays": 40,
-      "grade": "A",
-      "setupNotes": "Loose consolidation. Strong RS.",
-      "volume": 286900,
-      "marketCap": 255530237952,
-      "rank": 6
-    },
-    {
       "symbol": "RAIN",
       "price": 222.95,
       "change": 0.58,
@@ -97,21 +69,7 @@
       "setupNotes": "Loose consolidation. Strong RS.",
       "volume": 3071524,
       "marketCap": 74988265472,
-      "rank": 7
-    },
-    {
-      "symbol": "OPTIEMUS",
-      "price": 637.65,
-      "change": 3.04,
-      "adr": 4.39,
-      "priorMove": 42.0,
-      "rsRating": 100,
-      "consolidationDays": 40,
-      "grade": "A",
-      "setupNotes": "Loose consolidation. Strong RS.",
-      "volume": 282154,
-      "marketCap": 56917356544,
-      "rank": 8
+      "rank": 5
     },
     {
       "symbol": "PARAS",
@@ -125,7 +83,7 @@
       "setupNotes": "Loose consolidation. Strong RS.",
       "volume": 1668728,
       "marketCap": 101257977856,
-      "rank": 9
+      "rank": 6
     },
     {
       "symbol": "QUESS",
@@ -139,7 +97,7 @@
       "setupNotes": "Loose consolidation. Strong RS.",
       "volume": 17361457,
       "marketCap": 49669619712,
-      "rank": 10
+      "rank": 7
     },
     {
       "symbol": "ASTRAMICRO",
@@ -153,7 +111,7 @@
       "setupNotes": "Loose consolidation. Strong RS.",
       "volume": 4927414,
       "marketCap": 176749625344,
-      "rank": 11
+      "rank": 8
     },
     {
       "symbol": "THYROCARE",
@@ -167,91 +125,7 @@
       "setupNotes": "Loose consolidation. Strong RS.",
       "volume": 300343,
       "marketCap": 92154626048,
-      "rank": 12
-    },
-    {
-      "symbol": "JSFB",
-      "price": 575.0,
-      "change": 2.07,
-      "adr": 4.5,
-      "priorMove": 25.0,
-      "rsRating": 100,
-      "consolidationDays": 40,
-      "grade": "B",
-      "setupNotes": "Loose consolidation. Strong RS.",
-      "volume": 840142,
-      "marketCap": 60785827840,
-      "rank": 13
-    },
-    {
-      "symbol": "UNIMECH",
-      "price": 1235.9,
-      "change": 5.33,
-      "adr": 4.36,
-      "priorMove": 20.0,
-      "rsRating": 100,
-      "consolidationDays": 40,
-      "grade": "B",
-      "setupNotes": "Loose consolidation. Strong RS.",
-      "volume": 118289,
-      "marketCap": 62909779968,
-      "rank": 14
-    },
-    {
-      "symbol": "AETHER",
-      "price": 1539.6,
-      "change": 3.27,
-      "adr": 3.95,
-      "priorMove": 25.0,
-      "rsRating": 100,
-      "consolidationDays": 40,
-      "grade": "B",
-      "setupNotes": "Loose consolidation. Strong RS.",
-      "volume": 2452619,
-      "marketCap": 204324274176,
-      "rank": 15
-    },
-    {
-      "symbol": "SUPRIYA",
-      "price": 867.0,
-      "change": 0.83,
-      "adr": 3.88,
-      "priorMove": 23.0,
-      "rsRating": 100,
-      "consolidationDays": 40,
-      "grade": "B",
-      "setupNotes": "Loose consolidation. Strong RS.",
-      "volume": 171384,
-      "marketCap": 69778587648,
-      "rank": 16
-    },
-    {
-      "symbol": "PGIL",
-      "price": 2064.8,
-      "change": 1.81,
-      "adr": 3.85,
-      "priorMove": 33.0,
-      "rsRating": 100,
-      "consolidationDays": 40,
-      "grade": "B",
-      "setupNotes": "Loose consolidation. Strong RS.",
-      "volume": 36678,
-      "marketCap": 95360966656,
-      "rank": 17
-    },
-    {
-      "symbol": "SFL",
-      "price": 783.8,
-      "change": 0.97,
-      "adr": 3.83,
-      "priorMove": 44.0,
-      "rsRating": 100,
-      "consolidationDays": 40,
-      "grade": "B",
-      "setupNotes": "Loose consolidation. Strong RS.",
-      "volume": 97087,
-      "marketCap": 85593554944,
-      "rank": 18
+      "rank": 9
     },
     {
       "symbol": "SANSERA",
@@ -265,63 +139,7 @@
       "setupNotes": "Loose consolidation. Strong RS.",
       "volume": 209425,
       "marketCap": 208858497024,
-      "rank": 19
-    },
-    {
-      "symbol": "GRWRHITECH",
-      "price": 7151.5,
-      "change": 3.69,
-      "adr": 3.41,
-      "priorMove": 42.0,
-      "rsRating": 100,
-      "consolidationDays": 40,
-      "grade": "B",
-      "setupNotes": "Loose consolidation. Strong RS.",
-      "volume": 42556,
-      "marketCap": 166146457600,
-      "rank": 20
-    },
-    {
-      "symbol": "INDIGOPNTS",
-      "price": 1111.8,
-      "change": 2.86,
-      "adr": 3.27,
-      "priorMove": 24.0,
-      "rsRating": 100,
-      "consolidationDays": 40,
-      "grade": "B",
-      "setupNotes": "Loose consolidation. Strong RS.",
-      "volume": 103387,
-      "marketCap": 53069148160,
-      "rank": 21
-    },
-    {
-      "symbol": "NAZARA",
-      "price": 339.0,
-      "change": 10.05,
-      "adr": 3.2,
-      "priorMove": 25.0,
-      "rsRating": 100,
-      "consolidationDays": 40,
-      "grade": "B",
-      "setupNotes": "Loose consolidation. Strong RS.",
-      "volume": 19464356,
-      "marketCap": 130106851328,
-      "rank": 22
-    },
-    {
-      "symbol": "SHRIPISTON",
-      "price": 4395.2,
-      "change": 1.28,
-      "adr": 3.18,
-      "priorMove": 24.0,
-      "rsRating": 100,
-      "consolidationDays": 40,
-      "grade": "B",
-      "setupNotes": "Loose consolidation. Strong RS.",
-      "volume": 39847,
-      "marketCap": 193607794688,
-      "rank": 23
+      "rank": 10
     },
     {
       "symbol": "VARROC",
@@ -335,7 +153,7 @@
       "setupNotes": "Loose consolidation. Strong RS.",
       "volume": 284938,
       "marketCap": 103781302272,
-      "rank": 24
+      "rank": 11
     }
   ]
 }
