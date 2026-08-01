@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-01 14:08 IST",
+  "lastUpdated": "2026-08-01 15:36 IST",
   "stocks": [
     {
       "symbol": "KALYANKJIL",
@@ -72,6 +72,20 @@
       "rank": 5
     },
     {
+      "symbol": "MAPMYINDIA",
+      "price": 1181.65,
+      "change": -0.26,
+      "adr": 5.78,
+      "priorMove": 24.0,
+      "rsRating": 100,
+      "consolidationDays": 40,
+      "grade": "B",
+      "setupNotes": "Loose consolidation. Strong RS.",
+      "volume": 190731,
+      "marketCap": 64708403200,
+      "rank": 6
+    },
+    {
       "symbol": "FSL",
       "price": 302.12,
       "change": 0.83,
@@ -83,7 +97,7 @@
       "setupNotes": "Loose consolidation. Strong RS.",
       "volume": 6319776,
       "marketCap": 208624517120,
-      "rank": 6
+      "rank": 7
     },
     {
       "symbol": "ZEEL",
@@ -97,7 +111,7 @@
       "setupNotes": "Loose consolidation. Strong RS.",
       "volume": 61736966,
       "marketCap": 110027505664,
-      "rank": 7
+      "rank": 8
     },
     {
       "symbol": "REDINGTON",
@@ -111,7 +125,7 @@
       "setupNotes": "Loose consolidation. Strong RS.",
       "volume": 23658297,
       "marketCap": 251457732608,
-      "rank": 8
+      "rank": 9
     },
     {
       "symbol": "TATATECH",
@@ -125,7 +139,7 @@
       "setupNotes": "Loose consolidation. Strong RS.",
       "volume": 433679,
       "marketCap": 303584673792,
-      "rank": 9
+      "rank": 10
     },
     {
       "symbol": "BLUEJET",
@@ -139,7 +153,7 @@
       "setupNotes": "Loose consolidation. Strong RS.",
       "volume": 2120870,
       "marketCap": 108632719360,
-      "rank": 10
+      "rank": 11
     },
     {
       "symbol": "ACE",
@@ -153,7 +167,7 @@
       "setupNotes": "Loose consolidation. Strong RS.",
       "volume": 297207,
       "marketCap": 127395553280,
-      "rank": 11
+      "rank": 12
     },
     {
       "symbol": "PAYTM",
@@ -167,7 +181,7 @@
       "setupNotes": "Loose consolidation. Strong RS.",
       "volume": 2303054,
       "marketCap": 860439248896,
-      "rank": 12
+      "rank": 13
     },
     {
       "symbol": "IIFL",
@@ -181,7 +195,7 @@
       "setupNotes": "Loose consolidation. Strong RS.",
       "volume": 2476256,
       "marketCap": 258852503552,
-      "rank": 13
+      "rank": 14
     },
     {
       "symbol": "WELCORP",
@@ -195,7 +209,7 @@
       "setupNotes": "Loose consolidation. Strong RS.",
       "volume": 382124,
       "marketCap": 435269697536,
-      "rank": 14
+      "rank": 15
     },
     {
       "symbol": "COFORGE",
@@ -209,7 +223,21 @@
       "setupNotes": "Loose consolidation. Strong RS.",
       "volume": 3381070,
       "marketCap": 761870876672,
-      "rank": 15
+      "rank": 16
+    },
+    {
+      "symbol": "LALPATHLAB",
+      "price": 1905.2,
+      "change": 1.41,
+      "adr": 3.36,
+      "priorMove": 21.0,
+      "rsRating": 100,
+      "consolidationDays": 40,
+      "grade": "B",
+      "setupNotes": "Loose consolidation. Strong RS.",
+      "volume": 355875,
+      "marketCap": 318126063616,
+      "rank": 17
     },
     {
       "symbol": "IFCI",
@@ -223,7 +251,7 @@
       "setupNotes": "Loose consolidation. Strong RS.",
       "volume": 50453251,
       "marketCap": 206222819328,
-      "rank": 16
+      "rank": 18
     },
     {
       "symbol": "NAUKRI",
@@ -237,7 +265,7 @@
       "setupNotes": "Loose consolidation. Strong RS.",
       "volume": 1990511,
       "marketCap": 794287996928,
-      "rank": 17
+      "rank": 19
     },
     {
       "symbol": "EXIDEIND",
@@ -251,7 +279,7 @@
       "setupNotes": "Loose consolidation. Strong RS.",
       "volume": 6655019,
       "marketCap": 382329978880,
-      "rank": 18
+      "rank": 20
     },
     {
       "symbol": "GLAND",
@@ -265,7 +293,7 @@
       "setupNotes": "Loose consolidation. Strong RS.",
       "volume": 266828,
       "marketCap": 412895019008,
-      "rank": 19
+      "rank": 21
     },
     {
       "symbol": "CRAFTSMAN",
@@ -279,7 +307,7 @@
       "setupNotes": "Loose consolidation. Strong RS.",
       "volume": 104732,
       "marketCap": 258235777024,
-      "rank": 20
+      "rank": 22
     },
     {
       "symbol": "MANAPPURAM",
@@ -293,7 +321,7 @@
       "setupNotes": "Loose consolidation. Strong RS.",
       "volume": 6553842,
       "marketCap": 349292134400,
-      "rank": 21
+      "rank": 23
     }
   ]
 }
