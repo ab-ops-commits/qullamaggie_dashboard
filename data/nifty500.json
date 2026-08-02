@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-02 15:37 IST",
+  "lastUpdated": "2026-08-02 17:33 IST",
   "stocks": [
     {
       "symbol": "KALYANKJIL",
@@ -12,7 +12,7 @@
       "grade": "A",
       "setupNotes": "Loose consolidation. Strong RS.",
       "volume": 23711127,
-      "marketCap": 632656625664,
+      "marketCap": 633379553280,
       "rank": 1
     },
     {
@@ -26,7 +26,7 @@
       "grade": "A",
       "setupNotes": "Loose consolidation. Strong RS.",
       "volume": 3593817,
-      "marketCap": 1242615250944,
+      "marketCap": 1241866043392,
       "rank": 2
     },
     {
@@ -40,7 +40,7 @@
       "grade": "A",
       "setupNotes": "Loose consolidation. Strong RS.",
       "volume": 3182495,
-      "marketCap": 496716152832,
+      "marketCap": 498529107968,
       "rank": 3
     },
     {
@@ -54,7 +54,7 @@
       "grade": "B",
       "setupNotes": "Loose consolidation. Strong RS.",
       "volume": 6319776,
-      "marketCap": 208624517120,
+      "marketCap": 208541663232,
       "rank": 4
     },
     {
@@ -68,7 +68,7 @@
       "grade": "B",
       "setupNotes": "Loose consolidation. Strong RS.",
       "volume": 23658297,
-      "marketCap": 251457732608,
+      "marketCap": 250597769216,
       "rank": 5
     },
     {
@@ -82,7 +82,7 @@
       "grade": "B",
       "setupNotes": "Loose consolidation. Strong RS.",
       "volume": 433679,
-      "marketCap": 303584673792,
+      "marketCap": 302975582208,
       "rank": 6
     },
     {
@@ -96,7 +96,7 @@
       "grade": "B",
       "setupNotes": "Loose consolidation. Strong RS.",
       "volume": 2303054,
-      "marketCap": 860439248896,
+      "marketCap": 856851415040,
       "rank": 7
     },
     {
@@ -110,7 +110,7 @@
       "grade": "B",
       "setupNotes": "Loose consolidation. Strong RS.",
       "volume": 2476256,
-      "marketCap": 258852503552,
+      "marketCap": 258150760448,
       "rank": 8
     },
     {
@@ -124,7 +124,7 @@
       "grade": "B",
       "setupNotes": "Loose consolidation. Strong RS.",
       "volume": 382124,
-      "marketCap": 435269697536,
+      "marketCap": 435164217344,
       "rank": 9
     },
     {
@@ -138,7 +138,7 @@
       "grade": "B",
       "setupNotes": "Loose consolidation. Strong RS.",
       "volume": 3381070,
-      "marketCap": 761870876672,
+      "marketCap": 762313572352,
       "rank": 10
     },
     {
@@ -152,7 +152,7 @@
       "grade": "B",
       "setupNotes": "Loose consolidation. Strong RS.",
       "volume": 50453251,
-      "marketCap": 206222819328,
+      "marketCap": 205441466368,
       "rank": 11
     }
   ]

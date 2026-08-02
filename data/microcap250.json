@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-02 15:38 IST",
+  "lastUpdated": "2026-08-02 17:34 IST",
   "stocks": [
     {
       "symbol": "JINDWORLD",
@@ -12,7 +12,7 @@
       "grade": "A",
       "setupNotes": "Loose consolidation. High volatility. Strong RS.",
       "volume": 6117425,
-      "marketCap": 38439759872,
+      "marketCap": 37798096896,
       "rank": 1
     },
     {
@@ -26,7 +26,7 @@
       "grade": "A",
       "setupNotes": "Loose consolidation. High volatility. Strong RS.",
       "volume": 5766327,
-      "marketCap": 170722820096,
+      "marketCap": 170791321600,
       "rank": 2
     },
     {
@@ -40,7 +40,7 @@
       "grade": "A",
       "setupNotes": "Loose consolidation. High volatility. Strong RS.",
       "volume": 445438,
-      "marketCap": 53178114048,
+      "marketCap": 52936056832,
       "rank": 3
     },
     {
@@ -68,7 +68,7 @@
       "grade": "A",
       "setupNotes": "Loose consolidation. Strong RS.",
       "volume": 3071524,
-      "marketCap": 74988265472,
+      "marketCap": 74668736512,
       "rank": 5
     },
     {
@@ -82,7 +82,7 @@
       "grade": "A",
       "setupNotes": "Loose consolidation. Strong RS.",
       "volume": 1668728,
-      "marketCap": 101257977856,
+      "marketCap": 101378859008,
       "rank": 6
     },
     {
@@ -96,7 +96,7 @@
       "grade": "A",
       "setupNotes": "Loose consolidation. Strong RS.",
       "volume": 17361457,
-      "marketCap": 49669619712,
+      "marketCap": 49438113792,
       "rank": 7
     },
     {
@@ -110,7 +110,7 @@
       "grade": "A",
       "setupNotes": "Loose consolidation. Strong RS.",
       "volume": 4927414,
-      "marketCap": 176749625344,
+      "marketCap": 176227434496,
       "rank": 8
     },
     {
@@ -124,7 +124,7 @@
       "grade": "B",
       "setupNotes": "Loose consolidation. Strong RS.",
       "volume": 300343,
-      "marketCap": 92154626048,
+      "marketCap": 91995463680,
       "rank": 9
     },
     {
@@ -138,7 +138,7 @@
       "grade": "B",
       "setupNotes": "Loose consolidation. Strong RS.",
       "volume": 209425,
-      "marketCap": 208858497024,
+      "marketCap": 209675993088,
       "rank": 10
     },
     {
@@ -152,7 +152,7 @@
       "grade": "B",
       "setupNotes": "Loose consolidation. Strong RS.",
       "volume": 284938,
-      "marketCap": 103781302272,
+      "marketCap": 104056340480,
       "rank": 11
     }
   ]
