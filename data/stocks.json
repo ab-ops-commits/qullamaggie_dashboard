@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-03 16:58 IST",
+  "lastUpdated": "2026-08-03 18:20 IST",
   "stocks": [
     {
       "symbol": "AEGISLOG",
@@ -326,8 +326,8 @@
     {
       "symbol": "NAUKRI",
       "price": 1268.8,
-      "change": 3.47,
-      "adr": 3.23,
+      "change": 1.99,
+      "adr": 3.21,
       "priorMove": 30.0,
       "rsRating": 100,
       "consolidationDays": 40,
