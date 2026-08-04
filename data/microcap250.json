@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-04 16:29 IST",
+  "lastUpdated": "2026-08-04 18:13 IST",
   "stocks": [
     {
       "symbol": "JINDWORLD",
@@ -47,8 +47,8 @@
       "symbol": "AVALON",
       "price": 1805.4,
       "change": 3.06,
-      "adr": 4.88,
-      "priorMove": 30.0,
+      "adr": 4.98,
+      "priorMove": 44.0,
       "rsRating": 100,
       "consolidationDays": 40,
       "grade": "A",
@@ -61,8 +61,8 @@
       "symbol": "RELAXO",
       "price": 406.6,
       "change": -0.51,
-      "adr": 4.88,
-      "priorMove": 32.0,
+      "adr": 4.92,
+      "priorMove": 33.0,
       "rsRating": 100,
       "consolidationDays": 40,
       "grade": "A",
@@ -75,8 +75,8 @@
       "symbol": "GABRIEL",
       "price": 1530.8,
       "change": 0.22,
-      "adr": 4.8,
-      "priorMove": 35.0,
+      "adr": 4.82,
+      "priorMove": 36.0,
       "rsRating": 100,
       "consolidationDays": 40,
       "grade": "A",
@@ -84,20 +84,6 @@
       "volume": 754329,
       "marketCap": 271303720960,
       "rank": 6
-    },
-    {
-      "symbol": "OPTIEMUS",
-      "price": 625.65,
-      "change": -4.89,
-      "adr": 4.58,
-      "priorMove": 35.0,
-      "rsRating": 100,
-      "consolidationDays": 40,
-      "grade": "A",
-      "setupNotes": "Loose consolidation. Strong RS.",
-      "volume": 339696,
-      "marketCap": 55846223872,
-      "rank": 7
     },
     {
       "symbol": "QUESS",
@@ -111,7 +97,35 @@
       "setupNotes": "Loose consolidation. Strong RS.",
       "volume": 1194173,
       "marketCap": 48250699776,
+      "rank": 7
+    },
+    {
+      "symbol": "OPTIEMUS",
+      "price": 625.65,
+      "change": -4.89,
+      "adr": 4.49,
+      "priorMove": 41.0,
+      "rsRating": 100,
+      "consolidationDays": 40,
+      "grade": "A",
+      "setupNotes": "Loose consolidation. Strong RS.",
+      "volume": 339696,
+      "marketCap": 55846223872,
       "rank": 8
+    },
+    {
+      "symbol": "ICIL",
+      "price": 419.75,
+      "change": 2.45,
+      "adr": 4.39,
+      "priorMove": 44.0,
+      "rsRating": 100,
+      "consolidationDays": 40,
+      "grade": "A",
+      "setupNotes": "Loose consolidation. Strong RS.",
+      "volume": 389244,
+      "marketCap": 83133308928,
+      "rank": 9
     },
     {
       "symbol": "RAIN",
@@ -125,34 +139,20 @@
       "setupNotes": "Loose consolidation. Strong RS.",
       "volume": 6962361,
       "marketCap": 80073818112,
-      "rank": 9
-    },
-    {
-      "symbol": "ICIL",
-      "price": 419.75,
-      "change": 2.45,
-      "adr": 4.35,
-      "priorMove": 37.0,
-      "rsRating": 100,
-      "consolidationDays": 40,
-      "grade": "A",
-      "setupNotes": "Loose consolidation. Strong RS.",
-      "volume": 389244,
-      "marketCap": 83133308928,
       "rank": 10
     },
     {
-      "symbol": "AETHER",
-      "price": 1578.3,
-      "change": 4.56,
-      "adr": 4.09,
-      "priorMove": 30.0,
+      "symbol": "SFL",
+      "price": 768.05,
+      "change": -2.87,
+      "adr": 4.19,
+      "priorMove": 34.0,
       "rsRating": 100,
       "consolidationDays": 40,
       "grade": "A",
       "setupNotes": "Loose consolidation. Strong RS.",
-      "volume": 1047306,
-      "marketCap": 209460264960,
+      "volume": 628958,
+      "marketCap": 83873603584,
       "rank": 11
     },
     {
@@ -187,7 +187,7 @@
       "symbol": "RATEGAIN",
       "price": 970.7,
       "change": 0.55,
-      "adr": 3.89,
+      "adr": 3.87,
       "priorMove": 53.0,
       "rsRating": 100,
       "consolidationDays": 40,
@@ -230,7 +230,7 @@
       "price": 573.9,
       "change": -1.87,
       "adr": 4.42,
-      "priorMove": 26.0,
+      "priorMove": 22.0,
       "rsRating": 100,
       "consolidationDays": 40,
       "grade": "B",
@@ -243,8 +243,8 @@
       "symbol": "UNIMECH",
       "price": 1334.1,
       "change": 5.9,
-      "adr": 4.42,
-      "priorMove": 28.0,
+      "adr": 4.33,
+      "priorMove": 25.0,
       "rsRating": 100,
       "consolidationDays": 40,
       "grade": "B",
@@ -254,38 +254,52 @@
       "rank": 18
     },
     {
+      "symbol": "AETHER",
+      "price": 1578.3,
+      "change": 4.56,
+      "adr": 3.87,
+      "priorMove": 30.0,
+      "rsRating": 100,
+      "consolidationDays": 40,
+      "grade": "B",
+      "setupNotes": "Loose consolidation. Strong RS.",
+      "volume": 1047306,
+      "marketCap": 209460264960,
+      "rank": 19
+    },
+    {
       "symbol": "MARKSANS",
       "price": 269.1,
       "change": 2.61,
-      "adr": 3.84,
-      "priorMove": 36.0,
+      "adr": 3.82,
+      "priorMove": 33.0,
       "rsRating": 100,
       "consolidationDays": 40,
       "grade": "B",
       "setupNotes": "Loose consolidation. Strong RS.",
       "volume": 1316472,
       "marketCap": 121946365952,
-      "rank": 19
+      "rank": 20
     },
     {
       "symbol": "PGIL",
       "price": 2122.4,
       "change": 0.9,
       "adr": 3.71,
-      "priorMove": 33.0,
+      "priorMove": 35.0,
       "rsRating": 100,
       "consolidationDays": 40,
       "grade": "B",
       "setupNotes": "Loose consolidation. Strong RS.",
       "volume": 61929,
       "marketCap": 98021163008,
-      "rank": 20
+      "rank": 21
     },
     {
       "symbol": "RBA",
       "price": 84.91,
       "change": 20.0,
-      "adr": 3.69,
+      "adr": 3.7,
       "priorMove": 25.0,
       "rsRating": 100,
       "consolidationDays": 40,
@@ -293,13 +307,13 @@
       "setupNotes": "Loose consolidation. Strong RS.",
       "volume": 114837551,
       "marketCap": 60432048128,
-      "rank": 21
+      "rank": 22
     },
     {
       "symbol": "SHRIPISTON",
       "price": 4402.7,
       "change": -2.69,
-      "adr": 3.56,
+      "adr": 3.6,
       "priorMove": 22.0,
       "rsRating": 100,
       "consolidationDays": 40,
@@ -307,21 +321,21 @@
       "setupNotes": "Loose consolidation. Strong RS.",
       "volume": 60764,
       "marketCap": 193938161664,
-      "rank": 22
+      "rank": 23
     },
     {
-      "symbol": "ASKAUTOLTD",
-      "price": 551.3,
-      "change": -3.22,
-      "adr": 3.54,
-      "priorMove": 21.0,
+      "symbol": "SUPRIYA",
+      "price": 887.65,
+      "change": 0.91,
+      "adr": 3.56,
+      "priorMove": 27.0,
       "rsRating": 100,
       "consolidationDays": 40,
       "grade": "B",
       "setupNotes": "Loose consolidation. Strong RS.",
-      "volume": 271920,
-      "marketCap": 108684705792,
-      "rank": 23
+      "volume": 192507,
+      "marketCap": 71440556032,
+      "rank": 24
     },
     {
       "symbol": "SANSERA",
@@ -335,7 +349,7 @@
       "setupNotes": "Loose consolidation. Strong RS.",
       "volume": 248118,
       "marketCap": 218955399168,
-      "rank": 24
+      "rank": 25
     },
     {
       "symbol": "VIYASH",
@@ -349,91 +363,49 @@
       "setupNotes": "Loose consolidation. Strong RS.",
       "volume": 1939417,
       "marketCap": 116273799168,
-      "rank": 25
+      "rank": 26
     },
     {
       "symbol": "SHILPAMED",
       "price": 644.65,
       "change": 3.38,
-      "adr": 3.44,
-      "priorMove": 48.0,
+      "adr": 3.45,
+      "priorMove": 46.0,
       "rsRating": 100,
       "consolidationDays": 40,
       "grade": "B",
       "setupNotes": "Loose consolidation. Strong RS.",
       "volume": 1440784,
       "marketCap": 126081826816,
-      "rank": 26
-    },
-    {
-      "symbol": "SUPRIYA",
-      "price": 887.65,
-      "change": 0.91,
-      "adr": 3.41,
-      "priorMove": 26.0,
-      "rsRating": 100,
-      "consolidationDays": 40,
-      "grade": "B",
-      "setupNotes": "Loose consolidation. Strong RS.",
-      "volume": 192507,
-      "marketCap": 71440556032,
       "rank": 27
-    },
-    {
-      "symbol": "GARFIBRES",
-      "price": 774.6,
-      "change": 1.71,
-      "adr": 3.39,
-      "priorMove": 21.0,
-      "rsRating": 100,
-      "consolidationDays": 40,
-      "grade": "B",
-      "setupNotes": "Loose consolidation. Strong RS.",
-      "volume": 56006,
-      "marketCap": 75638407168,
-      "rank": 28
-    },
-    {
-      "symbol": "NAZARA",
-      "price": 349.5,
-      "change": 2.93,
-      "adr": 3.35,
-      "priorMove": 30.0,
-      "rsRating": 100,
-      "consolidationDays": 40,
-      "grade": "B",
-      "setupNotes": "Loose consolidation. Strong RS.",
-      "volume": 8439207,
-      "marketCap": 134136709120,
-      "rank": 29
     },
     {
       "symbol": "GRWRHITECH",
       "price": 7326.0,
       "change": 2.01,
-      "adr": 3.29,
-      "priorMove": 38.0,
+      "adr": 3.21,
+      "priorMove": 34.0,
       "rsRating": 100,
       "consolidationDays": 40,
       "grade": "B",
       "setupNotes": "Loose consolidation. Strong RS.",
       "volume": 72786,
       "marketCap": 170200514560,
-      "rank": 30
+      "rank": 28
     },
     {
       "symbol": "ARVIND",
       "price": 547.35,
       "change": 3.48,
-      "adr": 3.14,
-      "priorMove": 26.0,
+      "adr": 3.2,
+      "priorMove": 22.0,
       "rsRating": 100,
       "consolidationDays": 40,
       "grade": "B",
       "setupNotes": "Loose consolidation. Strong RS.",
       "volume": 1547668,
       "marketCap": 143482126336,
-      "rank": 31
+      "rank": 29
     },
     {
       "symbol": "VARROC",
@@ -447,7 +419,7 @@
       "setupNotes": "Loose consolidation. Strong RS.",
       "volume": 116971,
       "marketCap": 104018141184,
-      "rank": 32
+      "rank": 30
     }
   ]
 }
