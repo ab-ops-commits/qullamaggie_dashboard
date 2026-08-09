@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-09 15:02 IST",
+  "lastUpdated": "2026-08-09 17:05 IST",
   "stocks": [
     {
       "symbol": "AEGISLOG",
@@ -145,7 +145,7 @@
       "symbol": "AIIL",
       "price": 596.6,
       "change": 0.07,
-      "adr": 4.21,
+      "adr": 4.34,
       "priorMove": 25.0,
       "rsRating": 100,
       "consolidationDays": 40,
@@ -202,7 +202,7 @@
       "price": 1094.3,
       "change": -1.74,
       "adr": 3.83,
-      "priorMove": 24.0,
+      "priorMove": 23.0,
       "rsRating": 100,
       "consolidationDays": 40,
       "grade": "B",
