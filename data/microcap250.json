@@ -1,20 +1,6 @@
 {
-  "lastUpdated": "2026-08-19 13:27 IST",
+  "lastUpdated": "2026-08-19 15:03 IST",
   "stocks": [
-    {
-      "symbol": "AVALON",
-      "price": 2245.6,
-      "change": 2.2,
-      "adr": 5.5,
-      "priorMove": 49.0,
-      "rsRating": 100,
-      "consolidationDays": 40,
-      "grade": "A",
-      "setupNotes": "Loose consolidation. Strong RS.",
-      "volume": 931401,
-      "marketCap": 150032482304,
-      "rank": 1
-    },
     {
       "symbol": "EMIL",
       "price": 191.24,
@@ -27,7 +13,7 @@
       "setupNotes": "Loose consolidation. Strong RS.",
       "volume": 1183928,
       "marketCap": 73579356160,
-      "rank": 2
+      "rank": 1
     },
     {
       "symbol": "ICIL",
@@ -41,7 +27,7 @@
       "setupNotes": "Loose consolidation. Strong RS.",
       "volume": 2511658,
       "marketCap": 87896514560,
-      "rank": 3
+      "rank": 2
     },
     {
       "symbol": "RBA",
@@ -55,6 +41,20 @@
       "setupNotes": "Loose consolidation. Strong RS.",
       "volume": 12913965,
       "marketCap": 71926308864,
+      "rank": 3
+    },
+    {
+      "symbol": "AVALON",
+      "price": 2245.6,
+      "change": 2.2,
+      "adr": 5.32,
+      "priorMove": 53.0,
+      "rsRating": 100,
+      "consolidationDays": 40,
+      "grade": "A",
+      "setupNotes": "Loose consolidation. Strong RS.",
+      "volume": 931401,
+      "marketCap": 150032482304,
       "rank": 4
     },
     {
@@ -90,7 +90,7 @@
       "price": 715.6,
       "change": -2.78,
       "adr": 4.65,
-      "priorMove": 63.0,
+      "priorMove": 73.0,
       "rsRating": 100,
       "consolidationDays": 40,
       "grade": "A",
@@ -100,18 +100,32 @@
       "rank": 7
     },
     {
+      "symbol": "MARKSANS",
+      "price": 327.0,
+      "change": 0.15,
+      "adr": 4.57,
+      "priorMove": 48.0,
+      "rsRating": 100,
+      "consolidationDays": 40,
+      "grade": "A",
+      "setupNotes": "Loose consolidation. Strong RS.",
+      "volume": 2579641,
+      "marketCap": 148184547328,
+      "rank": 8
+    },
+    {
       "symbol": "PARAS",
       "price": 1496.4,
       "change": -2.02,
       "adr": 4.5,
-      "priorMove": 75.0,
+      "priorMove": 84.0,
       "rsRating": 100,
       "consolidationDays": 40,
       "grade": "A",
       "setupNotes": "Loose consolidation. Strong RS.",
       "volume": 3159596,
       "marketCap": 120590876672,
-      "rank": 8
+      "rank": 9
     },
     {
       "symbol": "BECTORFOOD",
@@ -125,21 +139,21 @@
       "setupNotes": "Loose consolidation. Strong RS.",
       "volume": 1551738,
       "marketCap": 80836763648,
-      "rank": 9
+      "rank": 10
     },
     {
       "symbol": "SKYGOLD",
       "price": 777.75,
       "change": -2.18,
       "adr": 4.47,
-      "priorMove": 61.0,
+      "priorMove": 67.0,
       "rsRating": 100,
       "consolidationDays": 40,
       "grade": "A",
       "setupNotes": "Loose consolidation. Strong RS.",
       "volume": 580115,
       "marketCap": 120453169152,
-      "rank": 10
+      "rank": 11
     },
     {
       "symbol": "UNIMECH",
@@ -153,7 +167,7 @@
       "setupNotes": "Loose consolidation. Strong RS.",
       "volume": 91048,
       "marketCap": 76271550464,
-      "rank": 11
+      "rank": 12
     },
     {
       "symbol": "AZAD",
@@ -167,20 +181,6 @@
       "setupNotes": "Loose consolidation. Strong RS.",
       "volume": 377038,
       "marketCap": 182663004160,
-      "rank": 12
-    },
-    {
-      "symbol": "MARKSANS",
-      "price": 327.0,
-      "change": 0.15,
-      "adr": 4.33,
-      "priorMove": 50.0,
-      "rsRating": 100,
-      "consolidationDays": 40,
-      "grade": "A",
-      "setupNotes": "Loose consolidation. Strong RS.",
-      "volume": 2579641,
-      "marketCap": 148184547328,
       "rank": 13
     },
     {
@@ -188,7 +188,7 @@
       "price": 830.9,
       "change": -1.54,
       "adr": 4.3,
-      "priorMove": 43.0,
+      "priorMove": 48.0,
       "rsRating": 100,
       "consolidationDays": 40,
       "grade": "A",
@@ -196,20 +196,6 @@
       "volume": 174425,
       "marketCap": 126960967680,
       "rank": 14
-    },
-    {
-      "symbol": "SHILPAMED",
-      "price": 807.75,
-      "change": -0.25,
-      "adr": 4.28,
-      "priorMove": 70.0,
-      "rsRating": 100,
-      "consolidationDays": 40,
-      "grade": "A",
-      "setupNotes": "Loose consolidation. Strong RS.",
-      "volume": 618896,
-      "marketCap": 157981212672,
-      "rank": 15
     },
     {
       "symbol": "MANORAMA",
@@ -223,6 +209,20 @@
       "setupNotes": "Loose consolidation. Strong RS.",
       "volume": 917890,
       "marketCap": 122141827072,
+      "rank": 15
+    },
+    {
+      "symbol": "SHILPAMED",
+      "price": 807.75,
+      "change": -0.25,
+      "adr": 4.16,
+      "priorMove": 58.0,
+      "rsRating": 100,
+      "consolidationDays": 40,
+      "grade": "A",
+      "setupNotes": "Loose consolidation. Strong RS.",
+      "volume": 618896,
+      "marketCap": 157981212672,
       "rank": 16
     },
     {
@@ -254,20 +254,6 @@
       "rank": 18
     },
     {
-      "symbol": "AETHER",
-      "price": 1640.1,
-      "change": 0.4,
-      "adr": 3.8,
-      "priorMove": 53.0,
-      "rsRating": 100,
-      "consolidationDays": 40,
-      "grade": "A",
-      "setupNotes": "Loose consolidation. Strong RS.",
-      "volume": 128283,
-      "marketCap": 217686933504,
-      "rank": 19
-    },
-    {
       "symbol": "MSTCLTD",
       "price": 703.75,
       "change": 0.31,
@@ -279,35 +265,21 @@
       "setupNotes": "Loose consolidation. Strong RS.",
       "volume": 787576,
       "marketCap": 49543999488,
+      "rank": 19
+    },
+    {
+      "symbol": "AETHER",
+      "price": 1640.1,
+      "change": 0.4,
+      "adr": 3.47,
+      "priorMove": 51.0,
+      "rsRating": 100,
+      "consolidationDays": 40,
+      "grade": "A",
+      "setupNotes": "Loose consolidation. Strong RS.",
+      "volume": 128283,
+      "marketCap": 217686933504,
       "rank": 20
-    },
-    {
-      "symbol": "ETHOSLTD",
-      "price": 2899.9,
-      "change": 0.27,
-      "adr": 4.63,
-      "priorMove": 20.0,
-      "rsRating": 100,
-      "consolidationDays": 40,
-      "grade": "B",
-      "setupNotes": "Loose consolidation. Strong RS.",
-      "volume": 42165,
-      "marketCap": 77594632192,
-      "rank": 21
-    },
-    {
-      "symbol": "PRUDENT",
-      "price": 3393.6,
-      "change": 1.18,
-      "adr": 4.17,
-      "priorMove": 27.0,
-      "rsRating": 100,
-      "consolidationDays": 40,
-      "grade": "B",
-      "setupNotes": "Loose consolidation. Strong RS.",
-      "volume": 17915,
-      "marketCap": 140517720064,
-      "rank": 22
     },
     {
       "symbol": "GMMPFAUDLR",
@@ -321,20 +293,48 @@
       "setupNotes": "Loose consolidation. Strong RS.",
       "volume": 100053,
       "marketCap": 45849624576,
-      "rank": 23
+      "rank": 21
     },
     {
       "symbol": "LUMAXTECH",
       "price": 1987.1,
       "change": -1.37,
       "adr": 4.04,
-      "priorMove": 25.0,
+      "priorMove": 23.0,
       "rsRating": 100,
       "consolidationDays": 40,
       "grade": "B",
       "setupNotes": "Loose consolidation. Strong RS.",
       "volume": 91752,
       "marketCap": 135436173312,
+      "rank": 22
+    },
+    {
+      "symbol": "PRUDENT",
+      "price": 3393.6,
+      "change": 1.18,
+      "adr": 4.02,
+      "priorMove": 26.0,
+      "rsRating": 100,
+      "consolidationDays": 40,
+      "grade": "B",
+      "setupNotes": "Loose consolidation. Strong RS.",
+      "volume": 17915,
+      "marketCap": 140517720064,
+      "rank": 23
+    },
+    {
+      "symbol": "TI",
+      "price": 573.85,
+      "change": -1.54,
+      "adr": 3.96,
+      "priorMove": 33.0,
+      "rsRating": 100,
+      "consolidationDays": 40,
+      "grade": "B",
+      "setupNotes": "Loose consolidation. Strong RS.",
+      "volume": 875524,
+      "marketCap": 141838974976,
       "rank": 24
     },
     {
@@ -352,32 +352,18 @@
       "rank": 25
     },
     {
-      "symbol": "TI",
-      "price": 573.85,
-      "change": -1.54,
-      "adr": 3.93,
-      "priorMove": 30.0,
-      "rsRating": 100,
-      "consolidationDays": 40,
-      "grade": "B",
-      "setupNotes": "Loose consolidation. Strong RS.",
-      "volume": 875524,
-      "marketCap": 141838974976,
-      "rank": 26
-    },
-    {
       "symbol": "LMW",
       "price": 19665.0,
       "change": -0.42,
-      "adr": 3.86,
-      "priorMove": 32.0,
+      "adr": 3.76,
+      "priorMove": 39.0,
       "rsRating": 100,
       "consolidationDays": 40,
       "grade": "B",
       "setupNotes": "Loose consolidation. Strong RS.",
       "volume": 5014,
       "marketCap": 210081202176,
-      "rank": 27
+      "rank": 26
     },
     {
       "symbol": "UJJIVANSFB",
@@ -391,6 +377,20 @@
       "setupNotes": "Loose consolidation. Strong RS.",
       "volume": 12221760,
       "marketCap": 139905220608,
+      "rank": 27
+    },
+    {
+      "symbol": "SHRIPISTON",
+      "price": 4454.0,
+      "change": -1.22,
+      "adr": 3.65,
+      "priorMove": 37.0,
+      "rsRating": 100,
+      "consolidationDays": 40,
+      "grade": "B",
+      "setupNotes": "Loose consolidation. Strong RS.",
+      "volume": 47521,
+      "marketCap": 196197908480,
       "rank": 28
     },
     {
@@ -398,7 +398,7 @@
       "price": 1977.3,
       "change": -0.17,
       "adr": 3.62,
-      "priorMove": 36.0,
+      "priorMove": 38.0,
       "rsRating": 100,
       "consolidationDays": 40,
       "grade": "B",
@@ -408,32 +408,18 @@
       "rank": 29
     },
     {
-      "symbol": "SHRIPISTON",
-      "price": 4454.0,
-      "change": -1.22,
-      "adr": 3.56,
-      "priorMove": 38.0,
-      "rsRating": 100,
-      "consolidationDays": 40,
-      "grade": "B",
-      "setupNotes": "Loose consolidation. Strong RS.",
-      "volume": 47521,
-      "marketCap": 196197908480,
-      "rank": 30
-    },
-    {
       "symbol": "KRN",
       "price": 1501.2,
       "change": -1.37,
-      "adr": 3.47,
-      "priorMove": 39.0,
+      "adr": 3.51,
+      "priorMove": 37.0,
       "rsRating": 100,
       "consolidationDays": 40,
       "grade": "B",
       "setupNotes": "Loose consolidation. Strong RS.",
       "volume": 572937,
       "marketCap": 98266275840,
-      "rank": 31
+      "rank": 30
     },
     {
       "symbol": "IFBIND",
@@ -447,21 +433,7 @@
       "setupNotes": "Loose consolidation. Strong RS.",
       "volume": 26037,
       "marketCap": 56661483520,
-      "rank": 32
-    },
-    {
-      "symbol": "KTKBANK",
-      "price": 324.05,
-      "change": 4.28,
-      "adr": 3.31,
-      "priorMove": 23.0,
-      "rsRating": 100,
-      "consolidationDays": 40,
-      "grade": "B",
-      "setupNotes": "Loose consolidation. Strong RS.",
-      "volume": 7344068,
-      "marketCap": 122549731328,
-      "rank": 33
+      "rank": 31
     }
   ]
 }
