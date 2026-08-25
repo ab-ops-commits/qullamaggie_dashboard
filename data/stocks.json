@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-25 13:32 IST",
+  "lastUpdated": "2026-08-25 15:18 IST",
   "stocks": [
     {
       "symbol": "SAPPHIRE",
@@ -418,7 +418,7 @@
       "grade": "B",
       "setupNotes": "Loose consolidation. Strong RS.",
       "volume": 2203053,
-      "marketCap": null,
+      "marketCap": 338702401536,
       "rank": 30
     },
     {
