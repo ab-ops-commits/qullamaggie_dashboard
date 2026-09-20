@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-20 17:36 IST",
+  "lastUpdated": "2026-09-20 18:59 IST",
   "stocks": [
     {
       "symbol": "AVALON",
@@ -30,20 +30,6 @@
       "rank": 2
     },
     {
-      "symbol": "WELENT",
-      "price": 823.35,
-      "change": 7.21,
-      "adr": 5.18,
-      "priorMove": 43.0,
-      "rsRating": 0,
-      "consolidationDays": 40,
-      "grade": "B",
-      "setupNotes": "Loose consolidation. ",
-      "volume": 1675361,
-      "marketCap": 111203319808,
-      "rank": 3
-    },
-    {
       "symbol": "EMIL",
       "price": 196.28,
       "change": 6.06,
@@ -55,7 +41,7 @@
       "setupNotes": "Loose consolidation. ",
       "volume": 15751870,
       "marketCap": 75372281856,
-      "rank": 4
+      "rank": 3
     },
     {
       "symbol": "SHILPAMED",
@@ -69,7 +55,7 @@
       "setupNotes": "Loose consolidation. ",
       "volume": 1766385,
       "marketCap": 201058107392,
-      "rank": 5
+      "rank": 4
     },
     {
       "symbol": "DIACABS",
@@ -83,7 +69,7 @@
       "setupNotes": "Loose consolidation. ",
       "volume": 759461,
       "marketCap": 219043512320,
-      "rank": 6
+      "rank": 5
     },
     {
       "symbol": "SHAREINDIA",
@@ -97,7 +83,7 @@
       "setupNotes": "Loose consolidation. ",
       "volume": 24957936,
       "marketCap": 49504899072,
-      "rank": 7
+      "rank": 6
     },
     {
       "symbol": "GMMPFAUDLR",
@@ -111,7 +97,7 @@
       "setupNotes": "Loose consolidation. ",
       "volume": 1207844,
       "marketCap": 65547632640,
-      "rank": 8
+      "rank": 7
     },
     {
       "symbol": "EMUDHRA",
@@ -125,7 +111,7 @@
       "setupNotes": "Loose consolidation. ",
       "volume": 1272884,
       "marketCap": 50866987008,
-      "rank": 9
+      "rank": 8
     },
     {
       "symbol": "YATHARTH",
@@ -139,7 +125,7 @@
       "setupNotes": "Loose consolidation. ",
       "volume": 6484052,
       "marketCap": 109265846272,
-      "rank": 10
+      "rank": 9
     },
     {
       "symbol": "UNIMECH",
@@ -153,7 +139,7 @@
       "setupNotes": "Loose consolidation. ",
       "volume": 189186,
       "marketCap": 81443192832,
-      "rank": 11
+      "rank": 10
     },
     {
       "symbol": "VARROC",
@@ -167,7 +153,7 @@
       "setupNotes": "Loose consolidation. ",
       "volume": 223364,
       "marketCap": 132033896448,
-      "rank": 12
+      "rank": 11
     },
     {
       "symbol": "TDPOWERSYS",
@@ -181,7 +167,7 @@
       "setupNotes": "Loose consolidation. ",
       "volume": 3139171,
       "marketCap": 239966879744,
-      "rank": 13
+      "rank": 12
     },
     {
       "symbol": "MAXESTATES",
@@ -195,7 +181,7 @@
       "setupNotes": "Loose consolidation. ",
       "volume": 201561,
       "marketCap": 97166442496,
-      "rank": 14
+      "rank": 13
     },
     {
       "symbol": "NEOGEN",
@@ -209,7 +195,7 @@
       "setupNotes": "Loose consolidation. ",
       "volume": 355984,
       "marketCap": 74415095808,
-      "rank": 15
+      "rank": 14
     },
     {
       "symbol": "INNOVACAP",
@@ -223,7 +209,7 @@
       "setupNotes": "Loose consolidation. ",
       "volume": 32076,
       "marketCap": 67096227840,
-      "rank": 16
+      "rank": 15
     },
     {
       "symbol": "OPTIEMUS",
@@ -237,21 +223,7 @@
       "setupNotes": "Loose consolidation. ",
       "volume": 190406,
       "marketCap": 53108039680,
-      "rank": 17
-    },
-    {
-      "symbol": "HERITGFOOD",
-      "price": 418.1,
-      "change": 2.31,
-      "adr": 4.21,
-      "priorMove": 29.0,
-      "rsRating": 0,
-      "consolidationDays": 40,
-      "grade": "C",
-      "setupNotes": "Loose consolidation. ",
-      "volume": 567662,
-      "marketCap": 39048556544,
-      "rank": 18
+      "rank": 16
     },
     {
       "symbol": "ALIVUS",
@@ -265,7 +237,7 @@
       "setupNotes": "Loose consolidation. ",
       "volume": 304330,
       "marketCap": 175538618368,
-      "rank": 19
+      "rank": 17
     },
     {
       "symbol": "AZAD",
@@ -279,21 +251,7 @@
       "setupNotes": "Loose consolidation. ",
       "volume": 700873,
       "marketCap": 179343507456,
-      "rank": 20
-    },
-    {
-      "symbol": "LUMAXTECH",
-      "price": 2102.7,
-      "change": 8.29,
-      "adr": 3.82,
-      "priorMove": 32.0,
-      "rsRating": 0,
-      "consolidationDays": 40,
-      "grade": "C",
-      "setupNotes": "Loose consolidation. ",
-      "volume": 190451,
-      "marketCap": 143540125696,
-      "rank": 21
+      "rank": 18
     },
     {
       "symbol": "ASKAUTOLTD",
@@ -307,21 +265,7 @@
       "setupNotes": "Loose consolidation. ",
       "volume": 515555,
       "marketCap": 129522679808,
-      "rank": 22
-    },
-    {
-      "symbol": "SUDARSCHEM",
-      "price": 1263.5,
-      "change": 4.82,
-      "adr": 3.78,
-      "priorMove": 42.0,
-      "rsRating": 0,
-      "consolidationDays": 40,
-      "grade": "C",
-      "setupNotes": "Loose consolidation. ",
-      "volume": 318843,
-      "marketCap": 101678686208,
-      "rank": 23
+      "rank": 19
     },
     {
       "symbol": "TI",
@@ -335,7 +279,7 @@
       "setupNotes": "Loose consolidation. ",
       "volume": 1687493,
       "marketCap": 140062310400,
-      "rank": 24
+      "rank": 20
     },
     {
       "symbol": "JKPAPER",
@@ -349,7 +293,7 @@
       "setupNotes": "Loose consolidation. ",
       "volume": 572207,
       "marketCap": 77785751552,
-      "rank": 25
+      "rank": 21
     },
     {
       "symbol": "NAZARA",
@@ -363,7 +307,7 @@
       "setupNotes": "Loose consolidation. ",
       "volume": 3038750,
       "marketCap": 141818183680,
-      "rank": 26
+      "rank": 22
     }
   ]
 }
