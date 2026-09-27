@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-27 17:13 IST",
+  "lastUpdated": "2026-09-27 18:38 IST",
   "stocks": [
     {
       "symbol": "WELCORP",
@@ -12,7 +12,7 @@
       "grade": "B",
       "setupNotes": "Loose consolidation. ",
       "volume": 2763523,
-      "marketCap": 746914971648,
+      "marketCap": 744805367808,
       "rank": 1
     },
     {
@@ -26,7 +26,7 @@
       "grade": "B",
       "setupNotes": "Loose consolidation. ",
       "volume": 1351331,
-      "marketCap": 160344752128,
+      "marketCap": 160207994880,
       "rank": 2
     },
     {
@@ -40,7 +40,7 @@
       "grade": "B",
       "setupNotes": "Loose consolidation. ",
       "volume": 793087,
-      "marketCap": 242228346880,
+      "marketCap": 241750753280,
       "rank": 3
     },
     {
@@ -54,7 +54,7 @@
       "grade": "B",
       "setupNotes": "Loose consolidation. ",
       "volume": 2473777,
-      "marketCap": 318377623552,
+      "marketCap": 317791305728,
       "rank": 4
     },
     {
@@ -68,7 +68,7 @@
       "grade": "C",
       "setupNotes": "Loose consolidation. ",
       "volume": 501380,
-      "marketCap": 223429099520,
+      "marketCap": 224056131584,
       "rank": 5
     },
     {
@@ -82,7 +82,7 @@
       "grade": "C",
       "setupNotes": "Loose consolidation. ",
       "volume": 1026235,
-      "marketCap": 333742014464,
+      "marketCap": 333279723520,
       "rank": 6
     },
     {
@@ -96,7 +96,7 @@
       "grade": "C",
       "setupNotes": "Loose consolidation. ",
       "volume": 4511284,
-      "marketCap": 145113563136,
+      "marketCap": 145155883008,
       "rank": 7
     },
     {
@@ -110,7 +110,7 @@
       "grade": "C",
       "setupNotes": "Loose consolidation. ",
       "volume": 210790,
-      "marketCap": 95896567808,
+      "marketCap": 95541460992,
       "rank": 8
     },
     {
@@ -124,7 +124,7 @@
       "grade": "C",
       "setupNotes": "Loose consolidation. ",
       "volume": 334991,
-      "marketCap": 113960058880,
+      "marketCap": 114074583040,
       "rank": 9
     },
     {
@@ -138,7 +138,7 @@
       "grade": "C",
       "setupNotes": "Loose consolidation. ",
       "volume": 2858135,
-      "marketCap": 211523846144,
+      "marketCap": 211834535936,
       "rank": 10
     },
     {
@@ -152,7 +152,7 @@
       "grade": "C",
       "setupNotes": "Loose consolidation. ",
       "volume": 184368,
-      "marketCap": 145999609856,
+      "marketCap": 145666342912,
       "rank": 11
     },
     {
@@ -166,7 +166,7 @@
       "grade": "C",
       "setupNotes": "Loose consolidation. ",
       "volume": 265877,
-      "marketCap": 338212257792,
+      "marketCap": 338785796096,
       "rank": 12
     },
     {
@@ -180,7 +180,7 @@
       "grade": "C",
       "setupNotes": "Loose consolidation. ",
       "volume": 152812,
-      "marketCap": 125474791424,
+      "marketCap": 125237485568,
       "rank": 13
     }
   ]
