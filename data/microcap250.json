@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-11 05:30 IST",
+  "lastUpdated": "2026-10-11 17:47 IST",
   "stocks": [
     {
       "symbol": "LOTUSDEV",
@@ -12,7 +12,7 @@
       "grade": "B",
       "setupNotes": "Loose consolidation. ",
       "volume": 549287,
-      "marketCap": 117171511296,
+      "marketCap": 118271139840,
       "rank": 1
     },
     {
@@ -26,7 +26,7 @@
       "grade": "B",
       "setupNotes": "Loose consolidation. ",
       "volume": 986137,
-      "marketCap": 144765616128,
+      "marketCap": 145053270016,
       "rank": 2
     },
     {
@@ -40,7 +40,7 @@
       "grade": "B",
       "setupNotes": "Loose consolidation. ",
       "volume": 1168361,
-      "marketCap": 227835166720,
+      "marketCap": 229659279360,
       "rank": 3
     },
     {
@@ -54,7 +54,7 @@
       "grade": "B",
       "setupNotes": "Loose consolidation. ",
       "volume": 267896,
-      "marketCap": 81363656704,
+      "marketCap": 80833536000,
       "rank": 4
     },
     {
@@ -68,7 +68,7 @@
       "grade": "B",
       "setupNotes": "Loose consolidation. ",
       "volume": 5710244,
-      "marketCap": 172512198656,
+      "marketCap": 173126533120,
       "rank": 5
     },
     {
@@ -82,7 +82,7 @@
       "grade": "B",
       "setupNotes": "Loose consolidation. ",
       "volume": 2291187,
-      "marketCap": 142638858240,
+      "marketCap": 142174224384,
       "rank": 6
     },
     {
@@ -96,7 +96,7 @@
       "grade": "C",
       "setupNotes": "Loose consolidation. ",
       "volume": 352976,
-      "marketCap": 73128181760,
+      "marketCap": 73087803392,
       "rank": 7
     },
     {
@@ -110,7 +110,7 @@
       "grade": "C",
       "setupNotes": "Loose consolidation. ",
       "volume": 305426,
-      "marketCap": 97783300096,
+      "marketCap": 97707663360,
       "rank": 8
     },
     {
@@ -124,7 +124,7 @@
       "grade": "C",
       "setupNotes": "Loose consolidation. ",
       "volume": 186151,
-      "marketCap": 128984293376,
+      "marketCap": 129161035776,
       "rank": 9
     }
   ]
