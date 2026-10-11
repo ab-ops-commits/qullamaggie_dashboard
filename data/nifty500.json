@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-10 20:15 IST",
+  "lastUpdated": "2026-10-11 05:29 IST",
   "stocks": [
     {
       "symbol": "CHENNPETRO",
@@ -16,6 +16,48 @@
       "rank": 1
     },
     {
+      "symbol": "CUPID",
+      "price": 366.1,
+      "change": 2.65,
+      "adr": 5.62,
+      "priorMove": 77.0,
+      "rsRating": 0,
+      "consolidationDays": 40,
+      "grade": "B",
+      "setupNotes": "Loose consolidation. ",
+      "volume": 33720165,
+      "marketCap": 492280315904,
+      "rank": 2
+    },
+    {
+      "symbol": "TDPOWERSYS",
+      "price": 793.75,
+      "change": 0.03,
+      "adr": 5.46,
+      "priorMove": 38.0,
+      "rsRating": 0,
+      "consolidationDays": 40,
+      "grade": "B",
+      "setupNotes": "Loose consolidation. ",
+      "volume": 2207016,
+      "marketCap": 249004818432,
+      "rank": 3
+    },
+    {
+      "symbol": "STLTECH",
+      "price": 1015.2,
+      "change": 0.36,
+      "adr": 5.35,
+      "priorMove": 96.0,
+      "rsRating": 0,
+      "consolidationDays": 40,
+      "grade": "B",
+      "setupNotes": "Loose consolidation. ",
+      "volume": 1326359,
+      "marketCap": 521871130624,
+      "rank": 4
+    },
+    {
       "symbol": "APARINDS",
       "price": 17984.0,
       "change": 0.94,
@@ -27,7 +69,7 @@
       "setupNotes": "Loose consolidation. ",
       "volume": 99015,
       "marketCap": 753032101888,
-      "rank": 2
+      "rank": 5
     },
     {
       "symbol": "CYIENT",
@@ -41,7 +83,7 @@
       "setupNotes": "Loose consolidation. ",
       "volume": 4226963,
       "marketCap": 120632983552,
-      "rank": 3
+      "rank": 6
     },
     {
       "symbol": "GLAND",
@@ -55,7 +97,7 @@
       "setupNotes": "Tight consolidation. ",
       "volume": 181216,
       "marketCap": 505230229504,
-      "rank": 4
+      "rank": 7
     },
     {
       "symbol": "SUNTV",
@@ -69,7 +111,35 @@
       "setupNotes": "Loose consolidation. ",
       "volume": 1787414,
       "marketCap": 250598408192,
-      "rank": 5
+      "rank": 8
+    },
+    {
+      "symbol": "AZAD",
+      "price": 2910.2,
+      "change": 0.92,
+      "adr": 4.92,
+      "priorMove": 22.0,
+      "rsRating": 0,
+      "consolidationDays": 40,
+      "grade": "C",
+      "setupNotes": "Loose consolidation. ",
+      "volume": 495620,
+      "marketCap": 187945795584,
+      "rank": 9
+    },
+    {
+      "symbol": "MEESHO",
+      "price": 232.74,
+      "change": 0.24,
+      "adr": 4.6,
+      "priorMove": 23.0,
+      "rsRating": 0,
+      "consolidationDays": 40,
+      "grade": "C",
+      "setupNotes": "Loose consolidation. ",
+      "volume": 6032710,
+      "marketCap": 1077241970688,
+      "rank": 10
     },
     {
       "symbol": "HFCL",
@@ -83,7 +153,21 @@
       "setupNotes": "Loose consolidation. ",
       "volume": 9090217,
       "marketCap": 398480637952,
-      "rank": 6
+      "rank": 11
+    },
+    {
+      "symbol": "AETHER",
+      "price": 1748.1,
+      "change": 0.23,
+      "adr": 4.01,
+      "priorMove": 20.0,
+      "rsRating": 0,
+      "consolidationDays": 40,
+      "grade": "C",
+      "setupNotes": "Loose consolidation. ",
+      "volume": 139555,
+      "marketCap": 232021540864,
+      "rank": 12
     },
     {
       "symbol": "PVRINOX",
@@ -97,7 +181,7 @@
       "setupNotes": "Loose consolidation. ",
       "volume": 608467,
       "marketCap": 127585058816,
-      "rank": 7
+      "rank": 13
     },
     {
       "symbol": "PTCIL",
@@ -111,7 +195,7 @@
       "setupNotes": "Loose consolidation. ",
       "volume": 28898,
       "marketCap": 388812242944,
-      "rank": 8
+      "rank": 14
     },
     {
       "symbol": "COFORGE",
@@ -125,7 +209,7 @@
       "setupNotes": "Loose consolidation. ",
       "volume": 2303224,
       "marketCap": 827551842304,
-      "rank": 9
+      "rank": 15
     }
   ]
 }
