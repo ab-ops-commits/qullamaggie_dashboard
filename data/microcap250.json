@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-11 17:47 IST",
+  "lastUpdated": "2026-10-11 19:07 IST",
   "stocks": [
     {
       "symbol": "LOTUSDEV",
@@ -96,7 +96,7 @@
       "grade": "C",
       "setupNotes": "Loose consolidation. ",
       "volume": 352976,
-      "marketCap": 73087803392,
+      "marketCap": null,
       "rank": 7
     },
     {
