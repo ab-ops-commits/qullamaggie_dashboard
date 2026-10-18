@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-18 16:06 IST",
+  "lastUpdated": "2026-10-18 17:29 IST",
   "stocks": [
     {
       "symbol": "LOTUSDEV",
@@ -12,7 +12,7 @@
       "grade": "B",
       "setupNotes": "Loose consolidation. ",
       "volume": 1052328,
-      "marketCap": 120348213248,
+      "marketCap": 119737311232,
       "rank": 1
     },
     {
@@ -26,7 +26,7 @@
       "grade": "B",
       "setupNotes": "Loose consolidation. ",
       "volume": 103405,
-      "marketCap": 84404830208,
+      "marketCap": 84945092608,
       "rank": 2
     },
     {
@@ -40,7 +40,7 @@
       "grade": "B",
       "setupNotes": "Loose consolidation. ",
       "volume": 2530213,
-      "marketCap": 164259233792,
+      "marketCap": 164940693504,
       "rank": 3
     },
     {
@@ -54,7 +54,7 @@
       "grade": "B",
       "setupNotes": "Loose consolidation. ",
       "volume": 119203,
-      "marketCap": 134168436736,
+      "marketCap": 133725413376,
       "rank": 4
     },
     {
@@ -68,7 +68,7 @@
       "grade": "C",
       "setupNotes": "Loose consolidation. ",
       "volume": 402805,
-      "marketCap": 80725852160,
+      "marketCap": 80720158720,
       "rank": 5
     },
     {
@@ -82,7 +82,7 @@
       "grade": "C",
       "setupNotes": "Loose consolidation. ",
       "volume": 785589,
-      "marketCap": 205818249216,
+      "marketCap": 202712432640,
       "rank": 6
     },
     {
@@ -96,7 +96,7 @@
       "grade": "C",
       "setupNotes": "Loose consolidation. ",
       "volume": 83828,
-      "marketCap": 119097696256,
+      "marketCap": 119633510400,
       "rank": 7
     },
     {
@@ -110,7 +110,7 @@
       "grade": "C",
       "setupNotes": "Loose consolidation. ",
       "volume": 677658,
-      "marketCap": 37619499008,
+      "marketCap": 37689094144,
       "rank": 8
     },
     {
@@ -124,7 +124,7 @@
       "grade": "C",
       "setupNotes": "Loose consolidation. ",
       "volume": 675501,
-      "marketCap": 79872909312,
+      "marketCap": 79487623168,
       "rank": 9
     },
     {
@@ -138,7 +138,7 @@
       "grade": "C",
       "setupNotes": "Loose consolidation. ",
       "volume": 67165,
-      "marketCap": 126312390656,
+      "marketCap": 127077777408,
       "rank": 10
     },
     {
@@ -152,7 +152,7 @@
       "grade": "C",
       "setupNotes": "Loose consolidation. ",
       "volume": 1797992,
-      "marketCap": 170846781440,
+      "marketCap": 171194073088,
       "rank": 11
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-18 16:05 IST",
+  "lastUpdated": "2026-10-18 17:28 IST",
   "stocks": [
     {
       "symbol": "CUPID",
@@ -12,7 +12,7 @@
       "grade": "B",
       "setupNotes": "Loose consolidation. ",
       "volume": 15386844,
-      "marketCap": 475606515712,
+      "marketCap": 476009889792,
       "rank": 1
     },
     {
@@ -26,7 +26,7 @@
       "grade": "B",
       "setupNotes": "Loose consolidation. ",
       "volume": 555965,
-      "marketCap": 251425980416,
+      "marketCap": 250539294720,
       "rank": 2
     },
     {
@@ -40,7 +40,7 @@
       "grade": "B",
       "setupNotes": "Loose consolidation. ",
       "volume": 583099,
-      "marketCap": 124349407232,
+      "marketCap": 123870543872,
       "rank": 3
     },
     {
@@ -54,7 +54,7 @@
       "grade": "C",
       "setupNotes": "Loose consolidation. ",
       "volume": 651034,
-      "marketCap": 134679527424,
+      "marketCap": 134871793664,
       "rank": 4
     },
     {
@@ -68,7 +68,7 @@
       "grade": "C",
       "setupNotes": "Loose consolidation. ",
       "volume": 1364294,
-      "marketCap": 152593547264,
+      "marketCap": 151503814656,
       "rank": 5
     },
     {
@@ -82,7 +82,7 @@
       "grade": "C",
       "setupNotes": "Loose consolidation. ",
       "volume": 12523,
-      "marketCap": 391110098944,
+      "marketCap": 389842337792,
       "rank": 6
     }
   ]
