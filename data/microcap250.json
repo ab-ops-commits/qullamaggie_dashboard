@@ -1,4 +1,75 @@
 {
-  "lastUpdated": "2026-10-19 21:14 IST",
-  "stocks": []
+  "lastUpdated": "2026-10-20 17:28 IST",
+  "stocks": [
+    {
+      "symbol": "LOTUSDEV",
+      "price": 239.83,
+      "change": -2.61,
+      "adr": 5.25,
+      "priorMove": 62.0,
+      "rsRating": 0,
+      "consolidationDays": 40,
+      "grade": "B",
+      "setupNotes": "Loose consolidation. ",
+      "volume": 969736,
+      "marketCap": 117210611712,
+      "rank": 1
+    },
+    {
+      "symbol": "KMEW",
+      "price": 3324.0,
+      "change": -0.11,
+      "adr": 4.65,
+      "priorMove": 36.0,
+      "rsRating": 0,
+      "consolidationDays": 40,
+      "grade": "B",
+      "setupNotes": "Loose consolidation. ",
+      "volume": 84333,
+      "marketCap": 84310982656,
+      "rank": 2
+    },
+    {
+      "symbol": "SKYGOLD",
+      "price": 1028.1,
+      "change": -3.06,
+      "adr": 4.55,
+      "priorMove": 57.0,
+      "rsRating": 0,
+      "consolidationDays": 40,
+      "grade": "B",
+      "setupNotes": "Loose consolidation. ",
+      "volume": 1988686,
+      "marketCap": 159225839616,
+      "rank": 3
+    },
+    {
+      "symbol": "THELEELA",
+      "price": 622.75,
+      "change": 1.05,
+      "adr": 4.92,
+      "priorMove": 28.0,
+      "rsRating": 0,
+      "consolidationDays": 40,
+      "grade": "C",
+      "setupNotes": "Loose consolidation. ",
+      "volume": 891559,
+      "marketCap": 207972270080,
+      "rank": 4
+    },
+    {
+      "symbol": "NAZARA",
+      "price": 404.2,
+      "change": -3.34,
+      "adr": 3.49,
+      "priorMove": 31.0,
+      "rsRating": 0,
+      "consolidationDays": 40,
+      "grade": "C",
+      "setupNotes": "Loose consolidation. ",
+      "volume": 745071,
+      "marketCap": 165147115520,
+      "rank": 5
+    }
+  ]
 }
