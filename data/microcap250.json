@@ -1,47 +1,4 @@
 {
-  "lastUpdated": "2026-10-21 17:36 IST",
-  "stocks": [
-    {
-      "symbol": "SKYGOLD",
-      "price": 1045.6,
-      "change": 1.7,
-      "adr": 4.67,
-      "priorMove": 56.0,
-      "rsRating": 0,
-      "consolidationDays": 40,
-      "grade": "B",
-      "setupNotes": "Loose consolidation. ",
-      "volume": 1834340,
-      "marketCap": 161936130048,
-      "rank": 1
-    },
-    {
-      "symbol": "TIPSMUSIC",
-      "price": 748.0,
-      "change": -3.07,
-      "adr": 4.25,
-      "priorMove": 20.0,
-      "rsRating": 0,
-      "consolidationDays": 40,
-      "grade": "C",
-      "setupNotes": "Loose consolidation. ",
-      "volume": 718399,
-      "marketCap": 95115419648,
-      "rank": 2
-    },
-    {
-      "symbol": "NAZARA",
-      "price": 398.9,
-      "change": -1.31,
-      "adr": 3.58,
-      "priorMove": 31.0,
-      "rsRating": 0,
-      "consolidationDays": 40,
-      "grade": "C",
-      "setupNotes": "Loose consolidation. ",
-      "volume": 1387515,
-      "marketCap": 162981658624,
-      "rank": 3
-    }
-  ]
+  "lastUpdated": "2026-10-21 18:51 IST",
+  "stocks": []
 }
