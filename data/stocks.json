@@ -1,33 +1,4 @@
 {
-  "lastUpdated": "2026-10-22 17:33 IST",
-  "stocks": [
-    {
-      "symbol": "PVRINOX",
-      "price": 1419.9,
-      "change": 0.14,
-      "adr": 3.67,
-      "priorMove": 41.0,
-      "rsRating": 0,
-      "consolidationDays": 40,
-      "grade": "C",
-      "setupNotes": "Loose consolidation. ",
-      "volume": 892334,
-      "marketCap": 136496406528,
-      "rank": 1
-    },
-    {
-      "symbol": "COFORGE",
-      "price": 1908.8,
-      "change": -2.16,
-      "adr": 3.02,
-      "priorMove": 33.0,
-      "rsRating": 0,
-      "consolidationDays": 40,
-      "grade": "C",
-      "setupNotes": "Loose consolidation. ",
-      "volume": 3515037,
-      "marketCap": 845672153088,
-      "rank": 2
-    }
-  ]
+  "lastUpdated": "2026-10-22 18:44 IST",
+  "stocks": []
 }

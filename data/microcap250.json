@@ -1,19 +1,4 @@
 {
-  "lastUpdated": "2026-10-22 17:32 IST",
-  "stocks": [
-    {
-      "symbol": "SKYGOLD",
-      "price": 1043.05,
-      "change": -0.24,
-      "adr": 4.76,
-      "priorMove": 61.0,
-      "rsRating": 0,
-      "consolidationDays": 40,
-      "grade": "B",
-      "setupNotes": "Loose consolidation. ",
-      "volume": 1068198,
-      "marketCap": 161541210112,
-      "rank": 1
-    }
-  ]
+  "lastUpdated": "2026-10-22 18:43 IST",
+  "stocks": []
 }
