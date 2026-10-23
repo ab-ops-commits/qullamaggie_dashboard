@@ -1,47 +1,4 @@
 {
-  "lastUpdated": "2026-10-23 17:22 IST",
-  "stocks": [
-    {
-      "symbol": "CYIENT",
-      "price": 1233.0,
-      "change": 7.81,
-      "adr": 4.57,
-      "priorMove": 47.0,
-      "rsRating": 0,
-      "consolidationDays": 40,
-      "grade": "B",
-      "setupNotes": "Loose consolidation. ",
-      "volume": 19888120,
-      "marketCap": 128546226176,
-      "rank": 1
-    },
-    {
-      "symbol": "CHENNPETRO",
-      "price": 1475.6,
-      "change": 1.51,
-      "adr": 5.77,
-      "priorMove": 27.0,
-      "rsRating": 0,
-      "consolidationDays": 40,
-      "grade": "C",
-      "setupNotes": "Loose consolidation. ",
-      "volume": 6407573,
-      "marketCap": 219733639168,
-      "rank": 2
-    },
-    {
-      "symbol": "PVRINOX",
-      "price": 1395.7,
-      "change": -1.7,
-      "adr": 3.71,
-      "priorMove": 31.0,
-      "rsRating": 0,
-      "consolidationDays": 40,
-      "grade": "C",
-      "setupNotes": "Loose consolidation. ",
-      "volume": 404193,
-      "marketCap": 134170034176,
-      "rank": 3
-    }
-  ]
+  "lastUpdated": "2026-10-23 18:36 IST",
+  "stocks": []
 }
