@@ -1,4 +1,33 @@
 {
-  "lastUpdated": "2026-10-23 20:04 IST",
-  "stocks": []
+  "lastUpdated": "2026-10-24 16:12 IST",
+  "stocks": [
+    {
+      "symbol": "SKYGOLD",
+      "price": 1046.85,
+      "change": 0.36,
+      "adr": 4.75,
+      "priorMove": 60.0,
+      "rsRating": 0,
+      "consolidationDays": 40,
+      "grade": "B",
+      "setupNotes": "Loose consolidation. ",
+      "volume": 1906508,
+      "marketCap": 162129723392,
+      "rank": 1
+    },
+    {
+      "symbol": "NAZARA",
+      "price": 402.15,
+      "change": 3.66,
+      "adr": 3.94,
+      "priorMove": 33.0,
+      "rsRating": 0,
+      "consolidationDays": 40,
+      "grade": "C",
+      "setupNotes": "Loose consolidation. ",
+      "volume": 3300949,
+      "marketCap": 164309532672,
+      "rank": 2
+    }
+  ]
 }
