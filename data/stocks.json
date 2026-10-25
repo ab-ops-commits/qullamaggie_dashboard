@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-25 16:44 IST",
+  "lastUpdated": "2026-10-25 17:46 IST",
   "stocks": [
     {
       "symbol": "CYIENT",
@@ -12,7 +12,7 @@
       "grade": "B",
       "setupNotes": "Loose consolidation. ",
       "volume": 19888724,
-      "marketCap": 128546226176,
+      "marketCap": 127795601408,
       "rank": 1
     },
     {
@@ -26,7 +26,7 @@
       "grade": "C",
       "setupNotes": "Loose consolidation. ",
       "volume": 6408882,
-      "marketCap": 219733639168,
+      "marketCap": 219346485248,
       "rank": 2
     },
     {
@@ -40,7 +40,7 @@
       "grade": "C",
       "setupNotes": "Loose consolidation. ",
       "volume": 404193,
-      "marketCap": 134170034176,
+      "marketCap": 134910246912,
       "rank": 3
     }
   ]
