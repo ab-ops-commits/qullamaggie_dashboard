@@ -1,4 +1,89 @@
 {
-  "lastUpdated": "2026-10-30 21:00 IST",
-  "stocks": []
+  "lastUpdated": "2026-10-31 17:21 IST",
+  "stocks": [
+    {
+      "symbol": "AEROFLEX",
+      "price": 536.4,
+      "change": -0.36,
+      "adr": 7.07,
+      "priorMove": 23.0,
+      "rsRating": 0,
+      "consolidationDays": 40,
+      "grade": "B",
+      "setupNotes": "Loose consolidation. High volatility. ",
+      "volume": 13796876,
+      "marketCap": 70982230016,
+      "rank": 1
+    },
+    {
+      "symbol": "SUDEEPPHRM",
+      "price": 1068.3,
+      "change": -5.47,
+      "adr": 6.14,
+      "priorMove": 21.0,
+      "rsRating": 0,
+      "consolidationDays": 40,
+      "grade": "B",
+      "setupNotes": "Loose consolidation. High volatility. ",
+      "volume": 225482,
+      "marketCap": 120663023616,
+      "rank": 2
+    },
+    {
+      "symbol": "LOTUSDEV",
+      "price": 245.98,
+      "change": 1.36,
+      "adr": 5.54,
+      "priorMove": 23.0,
+      "rsRating": 0,
+      "consolidationDays": 40,
+      "grade": "C",
+      "setupNotes": "Loose consolidation. ",
+      "volume": 18226559,
+      "marketCap": 120216256512,
+      "rank": 3
+    },
+    {
+      "symbol": "SGMART",
+      "price": 856.35,
+      "change": -0.95,
+      "adr": 5.33,
+      "priorMove": 23.0,
+      "rsRating": 0,
+      "consolidationDays": 40,
+      "grade": "C",
+      "setupNotes": "Loose consolidation. ",
+      "volume": 433022,
+      "marketCap": 107963809792,
+      "rank": 4
+    },
+    {
+      "symbol": "LUMAXTECH",
+      "price": 2022.7,
+      "change": -1.74,
+      "adr": 5.08,
+      "priorMove": 29.0,
+      "rsRating": 0,
+      "consolidationDays": 40,
+      "grade": "C",
+      "setupNotes": "Loose consolidation. ",
+      "volume": 130384,
+      "marketCap": 137862578176,
+      "rank": 5
+    },
+    {
+      "symbol": "THELEELA",
+      "price": 634.25,
+      "change": -0.88,
+      "adr": 5.02,
+      "priorMove": 28.0,
+      "rsRating": 0,
+      "consolidationDays": 40,
+      "grade": "C",
+      "setupNotes": "Loose consolidation. ",
+      "volume": 512346,
+      "marketCap": 211812794368,
+      "rank": 6
+    }
+  ]
 }
