@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-01 18:03 IST",
+  "lastUpdated": "2026-11-01 19:03 IST",
   "stocks": [
     {
       "symbol": "AEROFLEX",
@@ -12,7 +12,7 @@
       "grade": "B",
       "setupNotes": "Loose consolidation. High volatility. ",
       "volume": 13796876,
-      "marketCap": 70982230016,
+      "marketCap": 69738315776,
       "rank": 1
     },
     {
@@ -26,7 +26,7 @@
       "grade": "B",
       "setupNotes": "Loose consolidation. High volatility. ",
       "volume": 225482,
-      "marketCap": 120663023616,
+      "marketCap": 121984516096,
       "rank": 2
     },
     {
@@ -40,7 +40,7 @@
       "grade": "C",
       "setupNotes": "Loose consolidation. ",
       "volume": 18226559,
-      "marketCap": 120216256512,
+      "marketCap": 121398968320,
       "rank": 3
     },
     {
@@ -54,7 +54,7 @@
       "grade": "C",
       "setupNotes": "Loose consolidation. ",
       "volume": 433022,
-      "marketCap": 107963809792,
+      "marketCap": 107434303488,
       "rank": 4
     },
     {
@@ -68,7 +68,7 @@
       "grade": "C",
       "setupNotes": "Loose consolidation. ",
       "volume": 130384,
-      "marketCap": 137862578176,
+      "marketCap": 138155671552,
       "rank": 5
     },
     {
@@ -82,7 +82,7 @@
       "grade": "C",
       "setupNotes": "Loose consolidation. ",
       "volume": 512346,
-      "marketCap": 211812794368,
+      "marketCap": 211896287232,
       "rank": 6
     }
   ]
