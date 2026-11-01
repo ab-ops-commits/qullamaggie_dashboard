@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-01 19:03 IST",
+  "lastUpdated": "2026-11-01 20:45 IST",
   "stocks": [
     {
       "symbol": "ATHERENERG",
@@ -12,7 +12,7 @@
       "grade": "B",
       "setupNotes": "Loose consolidation. ",
       "volume": 7921128,
-      "marketCap": 696636997632,
+      "marketCap": null,
       "rank": 1
     },
     {
@@ -26,7 +26,7 @@
       "grade": "B",
       "setupNotes": "Tight consolidation. ",
       "volume": 300302,
-      "marketCap": 509883514880,
+      "marketCap": null,
       "rank": 2
     },
     {
@@ -40,7 +40,7 @@
       "grade": "C",
       "setupNotes": "Loose consolidation. ",
       "volume": 1145258,
-      "marketCap": 224111640576,
+      "marketCap": null,
       "rank": 3
     },
     {
@@ -54,7 +54,7 @@
       "grade": "C",
       "setupNotes": "Loose consolidation. ",
       "volume": 1147965,
-      "marketCap": 328114896896,
+      "marketCap": null,
       "rank": 4
     },
     {
@@ -68,7 +68,7 @@
       "grade": "C",
       "setupNotes": "Loose consolidation. ",
       "volume": 26855814,
-      "marketCap": 315303100416,
+      "marketCap": null,
       "rank": 5
     },
     {
@@ -82,7 +82,7 @@
       "grade": "C",
       "setupNotes": "Loose consolidation. ",
       "volume": 260492,
-      "marketCap": 452988370944,
+      "marketCap": null,
       "rank": 6
     },
     {
@@ -96,7 +96,7 @@
       "grade": "C",
       "setupNotes": "Loose consolidation. ",
       "volume": 662732,
-      "marketCap": 143783133184,
+      "marketCap": null,
       "rank": 7
     },
     {
@@ -110,7 +110,7 @@
       "grade": "C",
       "setupNotes": "Loose consolidation. ",
       "volume": 7913297,
-      "marketCap": 1299720962048,
+      "marketCap": null,
       "rank": 8
     },
     {
@@ -124,7 +124,7 @@
       "grade": "C",
       "setupNotes": "Loose consolidation. ",
       "volume": 2273901,
-      "marketCap": 1177777471488,
+      "marketCap": null,
       "rank": 9
     }
   ]
