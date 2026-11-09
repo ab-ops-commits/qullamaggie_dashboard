@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-09 22:38 IST",
+  "lastUpdated": "2026-11-09 23:32 IST",
   "stocks": [
     {
       "symbol": "WELSPUNLIV",
@@ -208,7 +208,7 @@
       "grade": "B",
       "setupNotes": "Loose consolidation. Strong RS.",
       "volume": 2198978,
-      "marketCap": 902252462080,
+      "marketCap": null,
       "rank": 15
     },
     {
