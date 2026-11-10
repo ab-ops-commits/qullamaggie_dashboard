@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-10 00:23 IST",
+  "lastUpdated": "2026-11-10 19:57 IST",
   "stocks": [
     {
       "symbol": "THELEELA",
@@ -11,7 +11,7 @@
       "consolidationDays": 40,
       "grade": "A",
       "setupNotes": "Loose consolidation. Strong RS.",
-      "volume": 592281,
+      "volume": 592383,
       "marketCap": 220495691776,
       "rank": 1
     },
@@ -39,7 +39,7 @@
       "consolidationDays": 40,
       "grade": "A",
       "setupNotes": "Loose consolidation. Strong RS.",
-      "volume": 809248,
+      "volume": 809258,
       "marketCap": 92138209280,
       "rank": 3
     },
@@ -53,7 +53,7 @@
       "consolidationDays": 40,
       "grade": "B",
       "setupNotes": "Loose consolidation. Strong RS.",
-      "volume": 86090,
+      "volume": 86104,
       "marketCap": 80069074944,
       "rank": 4
     },
@@ -67,7 +67,7 @@
       "consolidationDays": 40,
       "grade": "B",
       "setupNotes": "Loose consolidation. Strong RS.",
-      "volume": 85289,
+      "volume": 85340,
       "marketCap": 91939184640,
       "rank": 5
     },
@@ -95,7 +95,7 @@
       "consolidationDays": 40,
       "grade": "B",
       "setupNotes": "Loose consolidation. Strong RS.",
-      "volume": 446787,
+      "volume": 447482,
       "marketCap": 73254371328,
       "rank": 7
     },
@@ -109,7 +109,7 @@
       "consolidationDays": 40,
       "grade": "B",
       "setupNotes": "Loose consolidation. Strong RS.",
-      "volume": 197691,
+      "volume": 197721,
       "marketCap": 111070322688,
       "rank": 8
     },
@@ -123,7 +123,7 @@
       "consolidationDays": 40,
       "grade": "B",
       "setupNotes": "Loose consolidation. Strong RS.",
-      "volume": 843575,
+      "volume": 843620,
       "marketCap": 73581379584,
       "rank": 9
     },
@@ -137,7 +137,7 @@
       "consolidationDays": 40,
       "grade": "B",
       "setupNotes": "Loose consolidation. Strong RS.",
-      "volume": 395668,
+      "volume": 395674,
       "marketCap": 113775845376,
       "rank": 10
     },
@@ -165,7 +165,7 @@
       "consolidationDays": 40,
       "grade": "B",
       "setupNotes": "Loose consolidation. Strong RS.",
-      "volume": 892899,
+      "volume": 892999,
       "marketCap": 124351356928,
       "rank": 12
     },
@@ -179,7 +179,7 @@
       "consolidationDays": 40,
       "grade": "B",
       "setupNotes": "Loose consolidation. Strong RS.",
-      "volume": 13701954,
+      "volume": 13703954,
       "marketCap": 153756647424,
       "rank": 13
     },
@@ -193,7 +193,7 @@
       "consolidationDays": 40,
       "grade": "B",
       "setupNotes": "Loose consolidation. Strong RS.",
-      "volume": 1004576,
+      "volume": 1004577,
       "marketCap": 86614851584,
       "rank": 14
     },
