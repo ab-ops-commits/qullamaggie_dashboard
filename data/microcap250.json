@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-14 18:27 IST",
+  "lastUpdated": "2026-11-14 19:22 IST",
   "stocks": [
     {
       "symbol": "SKYGOLD",
@@ -68,7 +68,7 @@
       "grade": "A",
       "setupNotes": "Loose consolidation. Strong RS.",
       "volume": 378064,
-      "marketCap": 73491603456,
+      "marketCap": null,
       "rank": 5
     },
     {
