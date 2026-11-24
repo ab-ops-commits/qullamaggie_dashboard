@@ -1,4 +1,47 @@
 {
-  "lastUpdated": "2026-11-24 01:48 IST",
-  "stocks": []
+  "lastUpdated": "2026-11-24 03:01 IST",
+  "stocks": [
+    {
+      "symbol": "ICIL",
+      "price": 593.3,
+      "change": 2.25,
+      "adr": 5.42,
+      "priorMove": 34.0,
+      "rsRating": 100,
+      "consolidationDays": 40,
+      "grade": "A",
+      "setupNotes": "Loose consolidation. Strong RS.",
+      "volume": 597224,
+      "marketCap": 117505638400,
+      "rank": 1
+    },
+    {
+      "symbol": "SGMART",
+      "price": 1036.8,
+      "change": -5.49,
+      "adr": 5.68,
+      "priorMove": 26.0,
+      "rsRating": 100,
+      "consolidationDays": 40,
+      "grade": "B",
+      "setupNotes": "Loose consolidation. Strong RS.",
+      "volume": 11609639,
+      "marketCap": 130713944064,
+      "rank": 2
+    },
+    {
+      "symbol": "SHADOWFAX",
+      "price": 306.95,
+      "change": -0.1,
+      "adr": 4.95,
+      "priorMove": 20.0,
+      "rsRating": 100,
+      "consolidationDays": 40,
+      "grade": "B",
+      "setupNotes": "Loose consolidation. Strong RS.",
+      "volume": 3166430,
+      "marketCap": 180717944832,
+      "rank": 3
+    }
+  ]
 }
